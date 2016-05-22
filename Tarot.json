@@ -5,13 +5,12 @@
 		"Rank": 0,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Idea, thought, spirituality, originality, audacity. Folly, stupidity, inconsideration, eccentricity, or even mania.",
 		"Zodiac": "",
 		"Planet": "Uranus",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Beginnings", "Innocence", "Spontaneity", "Free spirit"],
-			"Reversed": ["Naivety", "Foolishness", "Recklessness", "Risk-taking"]
+			"Upright": ["Beginnings", "Innocence", "Spontaneity", "Free spirit", "Originality"],
+			"Reversed": ["Naivety", "Foolishness", "Recklessness", "Risk-taking", "Inconsideration", "Mania", "Folly"]
 		}
 	}, {
 		"Name": "The Magician",
@@ -19,13 +18,12 @@
 		"Rank": 1,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Skill, adroitness, intelligence, initiative, adaptation, elasticity, craft, cunning, deceit. Occult wisdom or magick power. Messages, business transactions.",
 		"Zodiac": "",
 		"Planet": "Mercury",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Power", "Skill", "Concentration", "Action", "Resourcefulness"],
-			"Reversed": ["Manipulation", "Poor planning", "Latent talents"]
+			"Upright": ["Power", "Skill", "Concentration", "Action", "Resourcefulness", "Intelligence", "Initiative", "Adroitness"],
+			"Reversed": ["Manipulation", "Poor planning", "Latent talents", "Deceit"]
 		}
 	}, {
 		"Name": "The High Priestess",
@@ -33,13 +31,12 @@
 		"Rank": 2,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "A pure, exalted, and gracious influence. Change, reaction, increase-decrease, fluctuation, cyclicity. Secrets, hidden things, mysteries.",
 		"Zodiac": "",
 		"Planet": "Moon",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Intuition", "Higher powers", "Mystery", "Subconscious mind"],
-			"Reversed": ["Hidden agendas", "Need to listen to inner voice"]
+			"Upright": ["Intuition", "Higher powers", "Mystery", "Wisdom", "Serenity", "Subconscious mind"],
+			"Reversed": ["Hidden agendas", "Self-reflection", "Repressed feelings", "Fluctuation"]
 		}
 	}, {
 		"Name": "The Empress",
@@ -47,13 +44,12 @@
 		"Rank": 3,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Love, beauty, happiness, pleasure, sensuousness, fruitfulness, success, graciousness, gentleness, delight. Luxury, idleness, debauchery, dissipation.",
 		"Zodiac": "",
 		"Planet": "Venus",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Fertility", "Feminity", "Beauty", "Nature", "Abundance"],
-			"Reversed": ["Creative block", "Dependence on others"]
+			"Upright": ["Fertility", "Feminity", "Love", "Beauty", "Nature", "Abundance", "Fruitfulness", "Success", "Pleasure", "Graciousness"],
+			"Reversed": ["Creative block", "Dependence on others", "Idleness", "Debauchery", "Dissipation"]
 		}
 	}, {
 		"Name": "The Emperor",
@@ -61,13 +57,12 @@
 		"Rank": 4,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Energy, power, vigor, ambition, conquest, control, governance, solidity; quarrels, strife, stubbornness, rashness, illtemper.",
 		"Zodiac": "Aries",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Authority", "Father-figure", "Structure", "Solid foundation"],
-			"Reversed": ["Domination", "Excessive control", "Rigidity", "Inflexibility"]
+			"Upright": ["Authority", "Father-figure", "Structure", "Solid foundation", "Solidity", "Control", "Ambition", "Vigor", "Power", "Energy"],
+			"Reversed": ["Domination", "Excessive control", "Rigidity", "Inflexibility", "Strife", "Quarrels", "Stubbornness", "Rashness"]
 		}
 	}, {
 		"Name": "The Hierophant",
@@ -75,13 +70,12 @@
 		"Rank": 5,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Wisdom, intuition, teaching received, philosophy, kindness, harmony, marriage, help from superiors, stillness; occult force voluntarily invoked.",
 		"Zodiac": "Taurus",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Religion", "Group identification", "Conformity", "Tradition", "Beliefs"],
-			"Reversed": ["Restriction", "Challenging the status quo"]
+			"Upright": ["Religion", "Group identification", "Conformity", "Tradition", "Beliefs", "Wisdom", "Intuition"],
+			"Reversed": ["Restriction", "Challenging the status quo", "Stillness"]
 		}
 	}, {
 		"Name": "The Lovers",
@@ -89,13 +83,12 @@
 		"Rank": 6,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Inspiration, intuition, intelligence; indecision (choices to be made), contradiction, instability. Love, union, mating of opposites, resolution of differences.",
 		"Zodiac": "Gemini",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Love", "Union", "Relationships", "Values alignment", "Choices"],
-			"Reversed": ["Disharmony", "Imbalance", "Misalignment of values"]
+			"Upright": ["Love", "Union", "Relationships", "Values alignment", "Choices", "Inspiration"],
+			"Reversed": ["Disharmony", "Imbalance", "Misalignment of values", "Instability"]
 		}
 	}, {
 		"Name": "The Chariot",
@@ -103,13 +96,12 @@
 		"Rank": 7,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Triumph, hope; zealot for tradition, ruthless, lust of destruction; obedience, faithfulness; receptive, questing, seeking, voluntary sacrifice or surrender.",
 		"Zodiac": "Cancer",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Control", "Will power", "Victory", "Assertion", "Determination"],
-			"Reversed": ["Lack of control and direction", "Aggression"]
+			"Upright": ["Control", "Will power", "Victory", "Assertion", "Determination", "Triumph", "Hope"],
+			"Reversed": ["Lack of control and direction", "Aggression", "Ruthless", "Lust of destruction"]
 		}
 	}, {
 		"Name": "Strength",
@@ -117,13 +109,12 @@
 		"Rank": 8,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Justice, equilibrium; the act of adjustment, balance by opposites, internal compensation. Karma. Legal actions, trial. Marriage or marriage agreements.",
 		"Zodiac": "Leo",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion"],
-			"Reversed": ["Weakness", "Self-doubt", "Lack of self-discipline"]
+			"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion", "Equalibrium","Justice"],
+			"Reversed": ["Weakness", "Self-doubt", "Lack of self-discipline", "Trial", "Judgement"]
 		}
 	}, {
 		"Name": "The Hermit",
@@ -131,13 +122,12 @@
 		"Rank": 9,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Wisdom or illumination from within; divine inspiration. Prudence, circumspection. Sometimes 'unexpected current.' Solitude.",
 		"Zodiac": "Virgo",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Soul-searching", "Introspection", "Being alone", "Inner guidance"],
-			"Reversed": ["Isolation", "Loneliness", "Withdrawal"]
+			"Upright": ["Soul-searching", "Introspection", "Being alone", "Inner guidance", "Illumination from within"],
+			"Reversed": ["Isolation", "Loneliness", "Withdrawal", "Prudence", "Circumspection", "Solitude"]
 		}
 	}, {
 		"Name": "Wheel of Fortune",
@@ -145,13 +135,12 @@
 		"Rank": 10,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Change in fortune (usually means good fortune and happiness, a 'turn for the better'). Law, rhythm, pattern, cycles. Intoxication of success.",
 		"Zodiac": "",
 		"Planet": "Jupiter",
 		"Element": "",
 		"Keywords": {
 			"Upright": ["Good luck", "Karma", "Life cycles", "A turning point"],
-			"Reversed": ["Bad luck", "Negative external forces", "Out of control"]
+			"Reversed": ["Bad luck", "Negative external forces", "Out of control", "Intoxication of success"]
 		}
 	}, {
 		"Name": "Justice",
@@ -159,13 +148,12 @@
 		"Rank": 11,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Courage, strength, fortitude, energy, action, joy in desire. Use of magick power; manifestation and control of the lifepower.",
 		"Zodiac": "Libra",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Justice", "Fairness", "Truth", "Cause and effect", "Law"],
-			"Reversed": ["Unfairness", "Lack of accountability", "Dishonesty"]
+			"Upright": ["Justice", "Fairness", "Truth", "Cause and effect", "Law", "Courage", "Strength", "Fortitude"],
+			"Reversed": ["Unfairness", "Lack of accountability", "Dishonesty", "Disarray"]
 		}
 	}, {
 		"Name": "The Hanged Man",
@@ -173,13 +161,12 @@
 		"Rank": 12,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Wisdom, surrender, renunciation. A reversal of circumstances. Sacrifice, punishment, suffering, loss (all either fatal or voluntary).",
 		"Zodiac": "",
 		"Planet": "Neptune",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Suspension", "Restriction", "Letting go", "Sacrifice"],
-			"Reversed": ["Martyrdom", "Indecision", "Delay"]
+			"Upright": ["Suspension", "Restriction", "Letting go", "Sacrifice", "Renunciation"],
+			"Reversed": ["Martyrdom", "Indecision", "Delay", "Suffering", "Loss"]
 		}
 	}, {
 		"Name": "Death",
@@ -187,13 +174,12 @@
 		"Rank": 13,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Sudden (often unexpected) change or evolution of circumstances. Transformation, change, metamorphosis. Redemption through putrefaction. Death, destruction.",
 		"Zodiac": "Scorpio",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Endings", "Beginnings", "Change", "Transformation", "Transition"],
-			"Reversed": ["Resistance to change", "Unable to move on"]
+			"Upright": ["Endings", "Beginnings", "Change", "Transformation", "Transition", "Metamorphosis"],
+			"Reversed": ["Resistance to change", "Unable to move on", "Hesitant", "Reluctance"]
 		}
 	}, {
 		"Name": "Temperance",
@@ -201,13 +187,12 @@
 		"Rank": 14,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Fertile combination of forces, adaptation, realization; aspiration, ambition; ordeal, trial, probation, testing, refinement; equilibration, resolution of errors, tempering.",
 		"Zodiac": "Sagittarius",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Balance", "Moderation", "Patience", "Purpose", "Meaning"],
-			"Reversed": ["Imbalance", "Excess", "Lack of long-term vision"]
+			"Upright": ["Balance", "Moderation", "Patience", "Purpose", "Meaning", "Realization", "Aspiration", "Ambition"],
+			"Reversed": ["Imbalance", "Excess", "Ordeal", "Testing", "Lack of long-term vision"]
 		}
 	}, {
 		"Name": "The Devil",
@@ -215,12 +200,11 @@
 		"Rank": 15,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Temptation, bondage, delusion. Ordeal, trouble, obsession. Materiality. Secret plan to be executed. Obstinacy, rigidity, aching discontent, endurance.",
 		"Zodiac": "Capricorn",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Bondage", "Addiction", "Sexuality", "Materialism"],
+			"Upright": ["Temptation", "Obsession", "Bondage", "Addiction", "Sexuality", "Materialism"],
 			"Reversed": ["Detachment", "Breaking free", "Power reclaimed"]
 		}
 	}, {
@@ -229,13 +213,12 @@
 		"Rank": 16,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Sudden, eruptive change of circumstances. Overwhelming of existing structures by a sudden, tremendous energy. Revelation, disclosure, exposure. Danger, destruction. Strength, courage, energy, fighting. Ambition, fall, ruin. Destabilization or destruction as a preparation for new creation.",
 		"Zodiac": "",
 		"Planet": "Mars",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Disaster", "Upheaval", "Sudden change"],
-			"Reversed": ["Avoidance of disaster", "Fear of change"]
+			"Upright": ["Disaster", "Upheaval", "Sudden change", "Destabilization", "Questioning your beliefs"],
+			"Reversed": ["Avoidance of disaster", "Fear of change", "Resistance to change"]
 		}
 	}, {
 		"Name": "The Star",
@@ -243,13 +226,12 @@
 		"Rank": 17,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Revelation, insight, clear vision, realizing possibilities, spiritual insight; hope, faith, unexpected help. Judgment errors, disappointment.",
 		"Zodiac": "Aquarius",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Hope", "Spirituality", "Renewal", "Inspiration", "Serenity"],
-			"Reversed": ["Lack of faith", "Despair", "Discouragement"]
+			"Upright": ["Hope", "Spirituality", "Renewal", "Inspiration", "Serenity", "Clear vision"],
+			"Reversed": ["Lack of faith", "Despair", "Discouragement", "Judgement errors", "Dissappointment"]
 		}
 	}, {
 		"Name": "The Moon",
@@ -257,13 +239,12 @@
 		"Rank": 18,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Illusion, bewilderment, dissociation from objective reality, dreaminess, error, misunderstanding, lying, falsehood, deception, hidden enemies.",
 		"Zodiac": "Pisces",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Illusion", "Fear", "Anxiety", "Insecurity", "Subconscious"],
-			"Reversed": ["Release of fear", "Unhappiness", "Confusion"]
+			"Upright": ["Illusion", "Bewilderment", "Fear", "Anxiety", "Insecurity", "Subconscious", "Deception"],
+			"Reversed": ["Release of fear", "Unhappiness", "Confusion", "Dissociation from reality", "Misunderstanding"]
 		}
 	}, {
 		"Name": "The Sun",
@@ -271,13 +252,12 @@
 		"Rank": 19,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Freedom, candor, truth, shamelessness, self-disclosure, self-knowledge, glory, wealth, triumph, pleasure. Health. Arrogance, self-aggrandizement, display, vanity.",
 		"Zodiac": "",
 		"Planet": "Sun",
 		"Element": "",
 		"Keywords": {
-			"Upright": ["Fun", "Warmth", "Success", "Positivity", "Vitality"],
-			"Reversed": ["Temporary depression", "Lack of success"]
+			"Upright": ["Fun", "Warmth", "Freedom", "Candor", "Success", "Positivity", "Vitality"],
+			"Reversed": ["Temporary depression", "Lack of success", "Arrogance", "Vanity"]
 		}
 	}, {
 		"Name": "Judgement",
@@ -285,13 +265,12 @@
 		"Rank": 20,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Final decision in respect to the past, and new current in respect to the future; the opening of new doors concurrent with the closing of old ones. Transforming fire, renewal. Always represents the taking of a definite and decisive step.",
 		"Zodiac": "",
 		"Planet": "Pluto",
 		"Element": "",
 		"Keywords": {
 			"Upright": ["Judgement", "Rebirth", "Inner calling", "Absolution"],
-			"Reversed": ["Self-doubt", "Refusal of self-examination"]
+			"Reversed": ["Self-doubt", "Refusal of self-examination", "Difficulties overcoming obstacles"]
 		}
 	}, {
 		"Name": "The World",
@@ -299,27 +278,25 @@
 		"Rank": 21,
 		"Arcana": "Major",
 		"Title": "",
-		"Intrepretation": "Synthesis, conclusion, crystallization, the end of the matter. Delay, opposition, inertia, patience, perseverance, persistence through difficulty.",
 		"Zodiac": "",
 		"Planet": "Saturn",
 		"Element": "",
 		"Keywords": {
-			"Upright": "Completion,Integration,Accomplishment,Travel",
-			"Reversed": "Lack of completion,Lack of closure"
+			"Upright": ["Completion", "Synthesis", "Conclusion", "Integration", "Accomplishment", "Travel"],
+			"Reversed": ["Lack of completion", "Lack of closure", "Delay", "Opposition"]
 		}
 	}, {
 		"Name": "The Happy Squirrel",
 		"Suit": "Trump",
 		"Rank": 22,
 		"Arcana": "Easter Egg",
-		"Title": "",
-		"Intrepretation": "An unknown factor which cannot be revealed at this time. A random element which cannot be controlled. A wild card that represents the unforseeable in any circumstance. It is neither good nor bad; just an irony.",
+		"Title": "An unknown factor which cannot be revealed at this time; a random element which cannot be controlled and represents the unforseeable.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "",
 		"Keywords": {
-			"Upright": "",
-			"Reversed": ""
+			"Upright": ["Unknown", "Random"],
+			"Reversed": ["Unforseeable", "Irony"]
 		}
 	}, {
 		"Name": "Ace of Pentacles",
@@ -327,13 +304,12 @@
 		"Rank": 1,
 		"Arcana": "Minor",
 		"Title": "The Root of the Powers of Earth.",
-		"Intrepretation": "Root of the Powers of Earth. Material gain, power, labor, wealth, contentment. Instructs that matter is entirely of the substance of Spirit, and of the Creative Light of the Sun.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Manifestation", "New financial opportunity", "Prosperity"],
-			"Reversed": ["Lost opportunity", "Lack of planning", "Lack of foresight"]
+			"Upright": ["Manifestation", "New financial opportunity", "Prosperity", "Wealth", "Contentment"],
+			"Reversed": ["Lost opportunity", "Lack of planning", "Lack of foresight", "Corruption"]
 		}
 	}, {
 		"Name": "Two of Pentacles",
@@ -341,13 +317,12 @@
 		"Rank": 2,
 		"Arcana": "Minor",
 		"Title": "Harmonious Change",
-		"Intrepretation": "Change (usually harmonious). Cyclicity (of circumstances, emotions, et cetera). Responsible, but inconsistent. Impulse toward the new; intuitive, forward-looking. Journeys.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Balance", "Adaptability", "Time management", "Prioritization"],
-			"Reversed": ["Disorganization", "Financial disarray"]
+			"Upright": ["Balance", "Adaptability", "Time management", "Prioritization", "Cyclicity"],
+			"Reversed": ["Disorganization", "Financial disarray", "Inconsistent"]
 		}
 	}, {
 		"Name": "Three of Pentacles",
@@ -355,13 +330,12 @@
 		"Rank": 3,
 		"Arcana": "Minor",
 		"Title": "Work",
-		"Intrepretation": "Work. Idea concretized into form, through labor. Construction, creation, endurance, sober practicality; material increase. Business, commercial transaction, earned gain.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Teamwork", "Initial fulfilment", "Collaboration", "Learning"],
-			"Reversed": ["Disregard for skills", "Lack of teamwork"]
+			"Upright": ["Teamwork", "Initial fulfilment", "Collaboration", "Learning", "Construction", "Endurance"],
+			"Reversed": ["Disregard for skills", "Lack of teamwork", "Lack of planning","Competition"]
 		}
 	}, {
 		"Name": "Four of Pentacles",
@@ -369,13 +343,12 @@
 		"Rank": 4,
 		"Arcana": "Minor",
 		"Title": "Earthly Power",
-		"Intrepretation": "Earthly power. authority, success, rank, dominion, paternal power. Selfaggrandizement, acting superior. Careful, serious, orderly, practical. Law, order, pattern, system. Gain of money or influence.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Control", "Stability", "Security", "Possession", "Conservatism"],
-			"Reversed": ["Greed", "Materialism", "Self-protection"]
+			"Upright": ["Control", "Stability", "Security", "Possession", "Conservatism", "Authority"],
+			"Reversed": ["Greed", "Materialism", "Self-protection", "Dominion", "Selfaggrandizement"]
 		}
 	}, {
 		"Name": "Five of Pentacles",
@@ -383,13 +356,12 @@
 		"Rank": 5,
 		"Arcana": "Minor",
 		"Title": "Worry",
-		"Intrepretation": "Worry/anxiety in practical/financial matters, requiring strength, resolve, intelligence, analysis. Mental duress, economic anxiety. Prolonged inaction; strain of inertia.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Isolation", "Insecurity", "Worry", "Financial loss", "Poverty"],
-			"Reversed": ["Recovery from financial loss", "Spiritual poverty"]
+			"Upright": ["Isolation", "Insecurity", "Worry", "Financial loss", "Poverty", "Anxiety", "Duress"],
+			"Reversed": ["Recovery from financial loss", "Spiritual poverty", "Analysis"]
 		}
 	}, {
 		"Name": "Six of Pentacles",
@@ -397,12 +369,11 @@
 		"Rank": 6,
 		"Arcana": "Minor",
 		"Title": "Material Success",
-		"Intrepretation": "Success, including material success. Gain, prosperity, fertility, philanthropy. Stabilizing circumstances. Constancy, devotion. Enjoyment of life, appreciation of beauty.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Generosity", "Charity", "Prosperity", "Giving", "Sharing wealth"],
+			"Upright": ["Generosity", "Charity", "Prosperity", "Philanthropy", "Giving", "Sharing wealth", "Gain"],
 			"Reversed": ["Debt", "Selfishness", "One-sided charity"]
 		}
 	}, {
@@ -411,13 +382,12 @@
 		"Rank": 7,
 		"Arcana": "Minor",
 		"Title": "Failure",
-		"Intrepretation": "Successful unfulfilled thus far. Failure; or success only through labor and patience. Inertia, disappointment, lost motivation, emotional loss, hopes crushed. Yet persevering, methodical, realistic, faithful, determined.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Vision", "Perseverance", "Profit", "Reward", "Investment"],
-			"Reversed": ["Lack of long-term vision", "Limited success or reward"]
+			"Upright": ["Vision", "Perseverance", "Profit", "Determination", "Reward", "Investment"],
+			"Reversed": ["Lack of long-term vision", "Limited success or reward", "Dissappointment", "Lost motivation"]
 		}
 	}, {
 		"Name": "Eight of Pentacles",
@@ -425,13 +395,12 @@
 		"Rank": 8,
 		"Arcana": "Minor",
 		"Title": "Prudence",
-		"Intrepretation": "Prudence, artisanship. Intelligence, cunning, calculation, diligence, methodical, orderly. Prudent, industrious. Practical, resourceful, clear mind. Careful work and fine detail.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Education", "Apprenticeship", "Quality", "Engagement"],
-			"Reversed": ["Perfectionism", "Lacking ambition or focus"]
+			"Upright": ["Education", "Apprenticeship", "Quality", "Engagement", "Calculating", "Diligence", "Orderly"],
+			"Reversed": ["Perfectionism", "Lacking ambition or focus", "Prudence"]
 		}
 	}, {
 		"Name": "Nine of Pentacles",
@@ -439,13 +408,12 @@
 		"Rank": 9,
 		"Arcana": "Minor",
 		"Title": "Material Gain",
-		"Intrepretation": "Material gain and good fortune. Harvest, fruitfulness, creation, inheritance. Pleasure, happiness, devotion, care-giving, affectionate, desirous of children, graceful.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Gratitide", "Luxury", "Self-sufficiency", "Culmination"],
-			"Reversed": ["Over-investment in work", "Financial setbacks"]
+			"Upright": ["Gratitide", "Luxury", "Self-sufficiency", "Culmination", "Fruitfulness"],
+			"Reversed": ["Over-investment in work", "Foolish actions", "Financial setbacks"]
 		}
 	}, {
 		"Name": "Ten of Pentacles",
@@ -453,13 +421,12 @@
 		"Rank": 10,
 		"Arcana": "Minor",
 		"Title": "Wealth",
-		"Intrepretation": "Wealth. Prosperity, riches. The completion or reward of labor. The pinnacle of success. Practical and intelligent management of affairs.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
 		"Keywords": {
-			"Upright": ["Wealth", "Inheritance", "Family", "Establishment", "Retirement"],
-			"Reversed": ["Financial failure", "Loneliness", "Loss"]
+			"Upright": ["Wealth", "Prosperity", "Inheritance", "Family", "Establishment", "Retirement"],
+			"Reversed": ["Financial failure", "Loneliness", "Loss", "Limitations on future success"]
 		}
 	}, {
 		"Name": "Page of Pentacles",
@@ -467,13 +434,12 @@
 		"Rank": 11,
 		"Arcana": "Minor",
 		"Title": "The Princess of the Echoing Hills: the Rose of the Palace of Earth.",
-		"Intrepretation": "Fulfillment of the initial creative Will or impulse; the fertile, productive ripening of all purpose. The actuality of imperial will over a rightly-built Kingdom, pregnant with possibility and with meaning.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Earth",
 		"Keywords": {
 			"Upright": ["Manifestation", "Financial opportunity", "New job"],
-			"Reversed": ["Lack of progress and planning", "Short-term focus"]
+			"Reversed": ["Lack of progress and planning", "Short-term focus", "Block to goal"]
 		}
 	}, {
 		"Name": "Knight of Pentacles",
@@ -481,13 +447,12 @@
 		"Rank": 12,
 		"Arcana": "Minor",
 		"Title": "The Prince of the Chariot of Earth.",
-		"Intrepretation": "Reason, intelligence, objectivity, and adaptability applied to practical things. Agency of equilibration between the rhythmical aspects of hardship and fortune which permeate all cycles of manifestation The 'accountant.'",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Earth",
 		"Keywords": {
-			"Upright": ["Efficiency", "Routine", "Methodical", "Conservatism"],
-			"Reversed": ["Boredom", "Laziness"]
+			"Upright": ["Efficiency", "Routine", "Methodical", "Conservatism", "Reason"],
+			"Reversed": ["Boredom", "Laziness", "Objectivity"]
 		}
 	}, {
 		"Name": "Queen of Pentacles",
@@ -495,13 +460,12 @@
 		"Rank": 13,
 		"Arcana": "Minor",
 		"Title": "The Queen of the Thrones of Earth.",
-		"Intrepretation": "Harmonious change, labor. Nurturing, bringing creative action to fruition, 'Mother Earth.' The intuitive faculty, or silent inner guidance, behind our actions – to which we either listen or not. Principle rather than dogma.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Earth",
 		"Keywords": {
-			"Upright": ["Practical", "Homely", "Down-to-earth", "Security", "Motherly"],
-			"Reversed": ["Imbalance in work commitments", "Imbalance in family commitments"]
+			"Upright": ["Practical", "Homely", "Down-to-earth", "Security", "Nuturing"],
+			"Reversed": ["Imbalance in work commitments", "Imbalance in family commitments", "Isolation"]
 		}
 	}, {
 		"Name": "King of Pentacles",
@@ -509,13 +473,12 @@
 		"Rank": 14,
 		"Arcana": "Minor",
 		"Title": "The Lord of the Wide and Fertile Land: the King of the Spirits of Earth.",
-		"Intrepretation": "Prudence, gain, husbandry. The seed-power of earth – the vital, generative, procreative power seeding the receiving and fertile earth (and the world of human action). Will manifest as the perfect actuality of event and circumstance.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Earth",
 		"Keywords": {
 			"Upright": ["Security", "Control", "Power", "Discipline", "Abundance"],
-			"Reversed": ["Authoritative", "Domineering", "Controlling"]
+			"Reversed": ["Authoritative", "Domineering", "Controlling", "Relentless"]
 		}
 	}, {
 		"Name": "Ace of Wands",
@@ -523,13 +486,12 @@
 		"Rank": 1,
 		"Arcana": "Minor",
 		"Title": "The Root of the Powers of Fire.",
-		"Intrepretation": "Root of the Powers of Fire. Primordial energy. Strength, rush, enterprise, beginnings. Natural Force, as opposed to Invoked Force.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
 			"Upright": ["Inspiration", "Power", "Creation", "Beginnings", "Potential"],
-			"Reversed": ["Delays", "Lack of motivation", "Weighed down"]
+			"Reversed": ["Delays", "Unmotivated", "Weighed down", "Uninspired"]
 		}
 	}, {
 		"Name": "Two of Wands",
@@ -537,13 +499,12 @@
 		"Rank": 2,
 		"Arcana": "Minor",
 		"Title": "Dominion",
-		"Intrepretation": "Dominion. Creative Will. Sudden application of phenomenal energy. Willful, imperial, independent. Strength, courage, fierceness; unyielding, restless, impatient.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
 			"Upright": ["Future planning", "Progress", "Decisions", "Discovery"],
-			"Reversed": ["Fear of unknown", "Lack of planning"]
+			"Reversed": ["Fear of unknown", "Lack of planning", "Obstruction to goal"]
 		}
 	}, {
 		"Name": "Three of Wands",
@@ -551,13 +512,12 @@
 		"Rank": 3,
 		"Arcana": "Minor",
 		"Title": "Virtue",
-		"Intrepretation": "Virtue, established strength. Self-respect, integrity, self-assertion, arrogance,conceit, pride, nobility, generosity. Firm, decisive, determined, persevering; private, solitary.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
 			"Upright": ["Preparation", "Foresight", "Enterprise", "Expansion"],
-			"Reversed": ["Lack of foresight", "Delays", "Obstacles to long-term goals"]
+			"Reversed": ["Lack of foresight", "Delays", "Conceit", "Obstacles to long-term goals"]
 		}
 	}, {
 		"Name": "Four of Wands",
@@ -565,13 +525,12 @@
 		"Rank": 4,
 		"Arcana": "Minor",
 		"Title": "Completion",
-		"Intrepretation": "Completion, perfected works. Rest after labor (laziness, negligence, idleness, waste). Graceful, harmonious, comfortable. Tact, popularity. ",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Celebration", "Harmony", "Marriage", "Home", "Community"],
-			"Reversed": ["Communication breakdown", "Transition"]
+			"Upright": ["Celebration", "Harmony", "Marriage", "Home", "Comfort", "Community"],
+			"Reversed": ["Communication breakdown", "Transition", "Idleness"]
 		}
 	}, {
 		"Name": "Five of Wands",
@@ -579,13 +538,12 @@
 		"Rank": 5,
 		"Arcana": "Minor",
 		"Title": "Strife",
-		"Intrepretation": "Strife. Struggle, hardness, endurance, obstinacy, self-interest. Quarreling, fighting, competition, violence. Injury, pain, conflict.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Disagreement", "Competition", "Strife", "Tension", "Conflict"],
-			"Reversed": ["Conflict avoidance", "Diversity", "Agreeing to disagree"]
+			"Upright": ["Disagreement", "Competition", "Strife", "Tension", "Struggle", "Conflict"],
+			"Reversed": ["Conflict avoidance", "Diversity", "Agreeing to disagree", "Competition"]
 		}
 	}, {
 		"Name": "Six of Wands",
@@ -593,13 +551,12 @@
 		"Rank": 6,
 		"Arcana": "Minor",
 		"Title": "Victory",
-		"Intrepretation": "Victory. Harmony and beauty of Will. Leadership. Joy, health, gain, dignity, self-confidence. Insolence, vanity, self-admiration, pride. Social conscience. ",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Public recognition", "Victory", "Progress", "Self-confidence"],
-			"Reversed": ["Egotism", "Disrepute", "Lack of confidence", "Fall from grace"]
+			"Upright": ["Public recognition", "Victory", "Progress", "Self-confidence", "Leadership"],
+			"Reversed": ["Egotism", "Disrepute", "Insolence", "Lack of confidence", "Fall from grace"]
 		}
 	}, {
 		"Name": "Seven of Wands",
@@ -607,13 +564,12 @@
 		"Rank": 7,
 		"Arcana": "Minor",
 		"Title": "Valor",
-		"Intrepretation": "Valor. Enthusiasm, zeal, passion, emotional force and vitality, courage amidst opposition, defense of loved ones. Outbursts of extreme emotion, quarreling. ",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Challenge", "Competition", "Perseverance"],
-			"Reversed": ["Overwhelmed", "Giving up", "Overly protective"]
+			"Upright": ["Challenge", "Competition", "Perseverance", "Enthusiasm", "Passion"],
+			"Reversed": ["Overwhelmed", "Giving up", "Overly protective", "Defensive"]
 		}
 	}, {
 		"Name": "Eight of Wands",
@@ -621,13 +577,12 @@
 		"Rank": 8,
 		"Arcana": "Minor",
 		"Title": "Swiftness",
-		"Intrepretation": "Swiftness. Rapid energetic rush, quickly passed/expended. Violent, intense. Discipline and focus provide swift thought-channels, yet narrow/specialize the viewpoint.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Action", "Speed", "Air travel", "Movement", "Swift change"],
-			"Reversed": ["Delays", "Frustration", "Holding off"]
+			"Upright": ["Action", "Speed", "Air travel", "Movement", "Swift change", "Rush"],
+			"Reversed": ["Delays", "Frustration", "Holding off", "Narrow"]
 		}
 	}, {
 		"Name": "Nine of Wands",
@@ -635,12 +590,11 @@
 		"Rank": 9,
 		"Arcana": "Minor",
 		"Title": "Strength",
-		"Intrepretation": "Strength, power, health, success. Ardent, creative. Psychological equilibrium, resolution of internal conflict. Mobility, adaptability, stability through change.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Courage", "Persistence", "Test of faith", "Resilience"],
+			"Upright": ["Courage", "Persistence", "Test of faith", "Resilience", "Power", "Ardent"],
 			"Reversed": ["Defensive", "On edge", "Hesitant", "Paranoia"]
 		}
 	}, {
@@ -649,13 +603,12 @@
 		"Rank": 10,
 		"Arcana": "Minor",
 		"Title": "Oppression",
-		"Intrepretation": "Oppression. Inertia impedes progress. Overbearing resistance. Cruelty, malice, tyranny. Perseverance, endurance, effort. Materialism, possessiveness.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
 		"Keywords": {
-			"Upright": ["Burden", "Responsibility", "Hard work", "Stress", "Achievement"],
-			"Reversed": ["Taking on too much", "Avoiding responsibility"]
+			"Upright": ["Burden", "Responsibility", "Hard work", "Stress", "Achievement", "Restriction", "Endurance"],
+			"Reversed": ["Taking on too much", "Avoiding responsibility", "Oppression"]
 		}
 	}, {
 		"Name": "Page of Wands",
@@ -663,12 +616,11 @@
 		"Rank": 11,
 		"Arcana": "Minor",
 		"Title": "The Princess of the Shining Flame: the Rose of the Palace of Fire.",
-		"Intrepretation": "Action expressing the root creative impulse or willforce. Incarnation of spiritual Principle in a vehicle capable of sustaining and manifesting it. The Causal Body. Vitality, joy of life, passion; pristine, perfect, a pure flame.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Fire",
 		"Keywords": {
-			"Upright": ["Enthusiasm", "Exploration", "Discovery", "Free spirit"],
+			"Upright": ["Enthusiasm", "Exploration", "Discovery", "Free spirit", "Creative impulse"],
 			"Reversed": ["Pessimism", "Lack of direction", "Setbacks to new ideas"]
 		}
 	}, {
@@ -677,13 +629,12 @@
 		"Rank": 12,
 		"Arcana": "Minor",
 		"Title": "The Prince of the Chariot of Fire.",
-		"Intrepretation": "Strife and Victory. Reason giving guidance, lucidity, and continuity to underlying Will-force. Vital, virile, energetic, swift. Lust for life, passion, vitality, and the rapture which is born from the fulfillment of True Will.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Fire",
 		"Keywords": {
-			"Upright": ["Energy", "Passion", "Lust", "Action", "Adventure", "Impulsiveness"],
-			"Reversed": ["Haste", "Scattered energy", "Delays", "Frustration"]
+			"Upright": ["Energy", "Passion", "Lust", "Action", "Adventure", "Impulsiveness", "Lucidity"],
+			"Reversed": ["Haste", "Scattered energy", "Delays", "Frustration", "Strife"]
 		}
 	}, {
 		"Name": "Queen of Wands",
@@ -691,13 +642,12 @@
 		"Rank": 13,
 		"Arcana": "Minor",
 		"Title": "The Queen of the Thrones of Flame.",
-		"Intrepretation": "Dominion, established strength, virtue. Understanding, wherein power is received, held, and nurtured. Anointing/Sanctifying Fire. Meditation, reflection, inner fixedness, magnetic.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Fire",
 		"Keywords": {
-			"Upright": ["Exuberance", "Warmth", "Vibrancy", "Determination"],
-			"Reversed": ["Agressive,", "Demanding"]
+			"Upright": ["Exuberance", "Warmth", "Vibrancy", "Determination", "Vibrancy"],
+			"Reversed": ["Agressive,", "Demanding", "Reflection", "Meditation"]
 		}
 	}, {
 		"Name": "King of Wands",
@@ -705,12 +655,11 @@
 		"Rank": 14,
 		"Arcana": "Minor",
 		"Title": "The Lord of the Flame and Lightning: the King of the Spirits of Fire.",
-		"Intrepretation": "Swiftness, strength. Fiery, erupting, initiating, paternal, creative. Primal Will-Force. A very rapid rush, quickly passed and expended — too much force applied too suddenly, violently, and intensively.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Fire",
 		"Keywords": {
-			"Upright": ["Vision", "Natural-born leader", "Entrepreneur", "Honor"],
+			"Upright": ["Vision", "Natural-born leader", "Entrepreneur", "Honor", "Creative"],
 			"Reversed": ["Impulsiveness", "Haste", "Ruthless", "High expectations"]
 		}
 	}, {
@@ -719,13 +668,12 @@
 		"Rank": 1,
 		"Arcana": "Minor",
 		"Title": "The Root of the Powers of Water.",
-		"Intrepretation": "Root of the Powers of Water. Fertility, productiveness, conception, beauty, love, pleasure, happiness.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Love", "Compassion", "Creativity", "Overwhelming emotion"],
-			"Reversed": ["Blocked emotions", "Repressed emotions"]
+			"Upright": ["Love", "Compassion", "Creativity", "Pleasure", "Happiness", "Overwhelming emotion"],
+			"Reversed": ["Blocked emotions", "Repressed emotions", "Emotional numbness"]
 		}
 	}, {
 		"Name": "Two of Cups",
@@ -733,13 +681,12 @@
 		"Rank": 2,
 		"Arcana": "Minor",
 		"Title": "Love",
-		"Intrepretation": "Love, pleasure, reciprocity, reflection, marriage, harmony, joy, ecstasy. Affections governed by instinct rather than social convention or conditioning or logic.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Partnership", "Attraction", "Unified love", "Relationships"],
-			"Reversed": ["Break-up", "Imbalance in relationship", "Lack of harmony"]
+			"Upright": ["Partnership", "Attraction", "Unified love", "Relationships", "Reciprocity"],
+			"Reversed": ["Break-up", "Imbalance in relationship", "Lack of harmony", "Reflection"]
 		}
 	}, {
 		"Name": "Three of Cups",
@@ -747,13 +694,12 @@
 		"Rank": 3,
 		"Arcana": "Minor",
 		"Title": "Abundance",
-		"Intrepretation": "Abundance. Fulfillment, love, pleasure, sensuality; gladness, kindness, merriment. The spiritual basis of fertility. Keen perception, memory; good fortune.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Celebration", "Friendship", "Creativity", "Community"],
-			"Reversed": ["An affair", "Stifled creativity"]
+			"Upright": ["Celebration", "Friendship", "Creativity", "Community", "Merriment"],
+			"Reversed": ["An affair", "Stifled creativity", "Isolation from others"]
 		}
 	}, {
 		"Name": "Four of Cups",
@@ -761,13 +707,12 @@
 		"Rank": 4,
 		"Arcana": "Minor",
 		"Title": "Luxury",
-		"Intrepretation": "Luxury, leisure, comfort. Much kindness received, stabilized pleasure. Devotion. Contemplation, introspection. Lazy, negligent, jaded; loss of impulse from over-satisfaction.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Meditation", "Contemplation", "Apathy", "Re-evaluation"],
-			"Reversed": ["Boredom", "Missed opportunity", "Aloof"]
+			"Upright": ["Meditation", "Contemplation", "Apathy", "Re-evaluation", "Devotion"],
+			"Reversed": ["Boredom", "Missed opportunity", "Aloof", "Lazy", "Jaded", "Negligent"]
 		}
 	}, {
 		"Name": "Five of Cups",
@@ -775,13 +720,12 @@
 		"Rank": 5,
 		"Arcana": "Minor",
 		"Title": "Disappointment",
-		"Intrepretation": "Emotional severity, requiring emotional strength. Disappointment in love, sadness, heart-break, loss of friendship, betrayal, ruthlessness, detraction.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
 			"Upright": ["Loss", "Regret", "Disappointment", "Despair", "Bereavement"],
-			"Reversed": ["Acceptance", "Forgiveness,Moving on"]
+			"Reversed": ["Acceptance", "Forgiveness", "Detraction", "Moving on"]
 		}
 	}, {
 		"Name": "Six of Cups",
@@ -789,12 +733,11 @@
 		"Rank": 6,
 		"Arcana": "Minor",
 		"Title": "Pleasure",
-		"Intrepretation": "Pleasure. Harmony and beauty in matters of the heart. Beginning of happiness, ease, satisfaction. Preeminently fertile (through putrefaction). Fulfillment of the sexual Will.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Reunion", "Nostalgia", "Childhood memories", "Innocense"],
+			"Upright": ["Reunion", "Nostalgia", "Childhood memories", "Innocence"],
 			"Reversed": ["Naivety", "Unrealistic", "Stuck in the past"]
 		}
 	}, {
@@ -803,13 +746,12 @@
 		"Rank": 7,
 		"Arcana": "Minor",
 		"Title": "Debauch",
-		"Intrepretation": "Debauch. Illusion, deception, error, promises unfulfilled. Imagination. Passionate, attractive. Substance abuse, wrath, vanity, shame. Lust, dissipation, betrayal, jealousy.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
 			"Upright": ["Fantasy", "Illusion", "Wishful thinking", "Choices", "Imagaination"],
-			"Reversed": ["Temptation", "Illusion", "Diversionary tactics"]
+			"Reversed": ["Temptation", "Deception", "Debauchery", "Diversionary tactics", "Unfulfilled promises"]
 		}
 	}, {
 		"Name": "Eight of Cups",
@@ -817,13 +759,12 @@
 		"Rank": 8,
 		"Arcana": "Minor",
 		"Title": "Indolence",
-		"Intrepretation": "Abandoned success. Renunciation, self-denying. Mental inhibition, distrust, loneliness, withdrawal. Heaviness. Exhaustion, loss of heart, stagnation, depression, burn-out.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Escapism", "Disappointment", "Abandonment", "Withdrawal"],
-			"Reversed": ["Hopelessness", "Aimless drifting", "Walking away"]
+			"Upright": ["Escapism", "Disappointment", "Abandonment", "Withdrawal", "Loneliness"],
+			"Reversed": ["Hopelessness", "Depression", "Burn-out", "Aimless drifting", "Walking away"]
 		}
 	}, {
 		"Name": "Nine of Cups",
@@ -831,13 +772,12 @@
 		"Rank": 9,
 		"Arcana": "Minor",
 		"Title": "Happiness",
-		"Intrepretation": "Happiness, pleasure. Satisfaction of sensuous, creative, and sexual needs; enjoyment of life, richness of soul. Kind, content, lovable; vain, self-satisfied. Big ideas.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Wishes fulfilled", "Comfort", "Happiness", "Satisfaction"],
-			"Reversed": ["Greed", "Dissatisfaction", "Materialism"]
+			"Upright": ["Wishes fulfilled", "Comfort", "Happiness", "Pleasure", "Satisfaction"],
+			"Reversed": ["Greed", "Dissatisfaction", "Materialism", "Vain"]
 		}
 	}, {
 		"Name": "Ten of Cups",
@@ -845,13 +785,12 @@
 		"Rank": 10,
 		"Arcana": "Minor",
 		"Title": "Satiety",
-		"Intrepretation": "Satiety, lasting success, happiness, pleasure. Sensuous, wanton, material. Debauchery, waste, no self-control, drug craving. Kind, generous; unreliability in romance.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
 		"Keywords": {
-			"Upright": ["Harmony", "Marriage", "Happiness", "Alignment"],
-			"Reversed": ["Misalignment of values", "Broken home or marriage"]
+			"Upright": ["Harmony", "Marriage", "Happiness", "Alignment", "Satiety"],
+			"Reversed": ["Misalignment of values", "Lack of self-control", "Debauchery", "Waste"]
 		}
 	}, {
 		"Name": "Page of Cups",
@@ -859,13 +798,12 @@
 		"Rank": 11,
 		"Arcana": "Minor",
 		"Title": "The Princess of the Waters: the Lotus of the Palace of the Floods.",
-		"Intrepretation": "Ideas given solid form or embodiment. Lending substance to ideas/ideals. Action harmonious with and in response to intuition. Shows the relationship between the incarnate human soul and the Higher Soul.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Water",
 		"Keywords": {
-			"Upright": ["Synchronicity", "A messenger", "Creative beginnings"],
-			"Reversed": ["Emotional immaturity", "Creative block"]
+			"Upright": ["Synchronicity", "Ideas", "A messenger", "Creative beginnings"],
+			"Reversed": ["Emotional immaturity", "Creative block", "Emotional insecurity"]
 		}
 	}, {
 		"Name": "Knight of Cups",
@@ -873,13 +811,12 @@
 		"Rank": 12,
 		"Arcana": "Minor",
 		"Title": "The Prince of the Chariot of the Waters.",
-		"Intrepretation": "Dynamic, sustained passion. Hero in the campaign of the soul’s exploration and conquest. Reason as the medium of expressing the depths of the soul.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Water",
 		"Keywords": {
-			"Upright": ["Romance", "Charm", "Imagination"],
-			"Reversed": ["Unrealistic", "Jealousy", "Moodiness"]
+			"Upright": ["Romance", "Passion", "Charm", "Imagination"],
+			"Reversed": ["Unrealistic", "Jealousy", "Moodiness", "Emotional incapacity"]
 		}
 	}, {
 		"Name": "Queen of Cups",
@@ -887,13 +824,12 @@
 		"Rank": 13,
 		"Arcana": "Minor",
 		"Title": "The Queen of the Thrones of the Waters.",
-		"Intrepretation": "Love, abundance. Nurturance, love, fertile maternity, reflection, peace. Intuition, all higher expressions of the soul, including prophesy and revelation.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Water",
 		"Keywords": {
-			"Upright": ["Emotional security", "Calm", "Intuitive", "Compassionate"],
-			"Reversed": ["Emotional insecurity", "Co-dependency"]
+			"Upright": ["Emotional security", "Calm", "Intuitive", "Compassionate", "Peace"],
+			"Reversed": ["Emotional insecurity", "Co-dependency", "Reflection", "Dissatisfaction", "Out of touch"]
 		}
 	}, {
 		"Name": "King of Cups",
@@ -901,13 +837,12 @@
 		"Rank": 14,
 		"Arcana": "Minor",
 		"Title": "The Lord of the Waves of the Waters: the King of the Hosts of the Sea.",
-		"Intrepretation": "Indolence, happiness, passivity, inspiration. Inner receptiveness of the spiritual consciousness toward the Divine Will. Responsiveness, conformity, and obedience to what is received. Artistic creative impulse.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Water",
 		"Keywords": {
-			"Upright": ["Emotional balance", "Emotional control"],
-			"Reversed": ["Emotional manipulation", "Moodiness", "Volatility"]
+			"Upright": ["Emotional balance", "Emotional control", "Happiness", "Inspiration", "Indolence"],
+			"Reversed": ["Emotional manipulation", "Moodiness", "Volatility", "Passivity", "Conformity"]
 		}
 	}, {
 		"Name": "Ace of Swords",
@@ -915,13 +850,12 @@
 		"Rank": 1,
 		"Arcana": "Minor",
 		"Title": "The Root of the Powers of Air.",
-		"Intrepretation": "Root of the Powers of Air. Great power for good or evil (invoked rather than natural). Intellect at its best and finest, as a tool for use. Conquest, activity, and strength during trouble. Justice , wrath, punishment, affliction.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Raw power", "Victory", "Break-throughs", "Mental clarity"],
-			"Reversed": ["Confusion", "Chaos", "Lack of clarity"]
+			"Upright": ["Raw power", "Victory", "Break-throughs", "Mental clarity", "Inspiration"],
+			"Reversed": ["Confusion", "Chaos", "Lack of clarity", "Clouded judgement"]
 		}
 	}, {
 		"Name": "Two of Swords",
@@ -929,13 +863,12 @@
 		"Rank": 2,
 		"Arcana": "Minor",
 		"Title": "Peace Restored",
-		"Intrepretation": "Peace restored. Compromise, cooperation, friendship. Emotional division creatively resolved. Strength from difficulties, pleasure after pain.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
 			"Upright": ["Indecision", "Choices", "Truce", "Stalemate", "Blocked emotions"],
-			"Reversed": ["Indecision", "Confusion", "Information overload"]
+			"Reversed": ["Confusion", "Information overload", "Emotional division"]
 		}
 	}, {
 		"Name": "Three of Swords",
@@ -943,13 +876,12 @@
 		"Rank": 3,
 		"Arcana": "Minor",
 		"Title": "Sorrow",
-		"Intrepretation": "Sorrow, disappointment, tears, separation, alienation, melancholy, discontent. Mirth in Platonic pleasures. Faithful in promises, conscientious, dutiful.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Painful separation", "Sorrow", "Heartbreak", "Grief", "Rejection"],
-			"Reversed": ["Releasing pain", "Optimism", "Forgiveness"]
+			"Upright": ["Painful separation", "Sorrow", "Disappointment", "Heartbreak", "Grief", "Rejection", "Melancholy"],
+			"Reversed": ["Releasing pain", "Optimism", "Forgiveness", "Faithful in promises"]
 		}
 	}, {
 		"Name": "Four of Swords",
@@ -957,13 +889,12 @@
 		"Rank": 4,
 		"Arcana": "Minor",
 		"Title": "Truce",
-		"Intrepretation": "Truce, rest from strife. Convalescence, recovery, restoration. Relief from anxiety, refuge from mental chaos. Intellectual authority, dogma, convention. Social satisfaction.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Contemplation", "Recuperation", "Passivity", "Relaxation", "Rest"],
-			"Reversed": ["Restlessness", "Burn-out", "Lack of progress"]
+			"Upright": ["Contemplation", "Recuperation", "Restoration", "Passivity", "Relaxation", "Rest"],
+			"Reversed": ["Restlessness", "Burn-out", "Lack of progress", "Stagnation"]
 		}
 	}, {
 		"Name": "Five of Swords",
@@ -971,12 +902,11 @@
 		"Rank": 5,
 		"Arcana": "Minor",
 		"Title": "Defeat",
-		"Intrepretation": "Defeat, failure; spite, enmity, slander, dishonor; lost competitive edge. Mental anguish, requiring mental strength, resolve. Cruel, cowardly. Sentiment weakens intellect.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Conflict", "Tension", "Loss", "Defeat", "Win at all costs", "Betrayal"],
+			"Upright": ["Conflict", "Tension", "Failure", "Defeat", "Mental anguish", "Win at all costs", "Betrayal"],
 			"Reversed": ["Open to change", "Past resentment"]
 		}
 	}, {
@@ -985,12 +915,11 @@
 		"Rank": 6,
 		"Arcana": "Minor",
 		"Title": "Science",
-		"Intrepretation": "Science, success. Mental/moral balance, health, wholeness. Intelligence, umanity. Inventive, progressive thought; attentive, analytical. Long distance travel, commerce.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Regretful but necessary transition", "Rite of passage"],
+			"Upright": ["Regretful but necessary transition", "Rite of passage", "Progressive thinking"],
 			"Reversed": ["Cannot move on", "Carrying baggage"]
 		}
 	}, {
@@ -999,13 +928,12 @@
 		"Rank": 7,
 		"Arcana": "Minor",
 		"Title": "Futility",
-		"Intrepretation": "Unstable effort, futility. Doubt, vacillation, distraction. Poor effort. Inattentive, weak, sloppy. Clever, adaptable; conniving, unreliable. Passive, moody, easily influenced.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
 			"Upright": ["Betrayal", "Deception", "Getting away with something", "Stealth"],
-			"Reversed": ["Mental challenges", "Breaking free"]
+			"Reversed": ["Mental challenges", "Doubt", "Moodiness", "Breaking free", "Adaption"]
 		}
 	}, {
 		"Name": "Eight of Swords",
@@ -1013,12 +941,11 @@
 		"Rank": 8,
 		"Arcana": "Minor",
 		"Title": "Interference",
-		"Intrepretation": "Interference, indecision, obfuscation. Narrow, petty; intellectual, controlling; but unfocussed or autistic. Versatile/distractible; obliging/conciliatory; avoidant; superficial.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Isolation", "Self-imposed restriction", "Imprisonment"],
+			"Upright": ["Isolation", "Self-imposed restriction", "Imprisonment", "Indecision", "Distractible"],
 			"Reversed": ["Open to new perspectives", "Release"]
 		}
 	}, {
@@ -1027,13 +954,12 @@
 		"Rank": 9,
 		"Arcana": "Minor",
 		"Title": "Despair and Cruelty",
-		"Intrepretation": "Despair, cruelty, suffering, malice. Emotional pain, eruptive emotion. Conflict, rage, anxiety, frustration, restlessness. Mental discipline, analysis, inquiry, discrimination.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Depression", "Nightmares", "Intense anxiety", "Despair"],
-			"Reversed": ["Hopelessness", "Severe depression", "Torment"]
+			"Upright": ["Depression", "Nightmares", "Intense anxiety", "Restlessness", "Despair"],
+			"Reversed": ["Hopelessness", "Severe depression", "Torment", "Emotional pain"]
 		}
 	}, {
 		"Name": "Ten of Swords",
@@ -1041,13 +967,12 @@
 		"Rank": 10,
 		"Arcana": "Minor",
 		"Title": "Ruin",
-		"Intrepretation": "Ruin, defeat, disruption. Creative impulse checked. End of delusion. New dawn pending? Needs perseverance, endurance, practicality, and sense of humor.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
 		"Keywords": {
-			"Upright": ["Defeat", "Back-stabbed", "Crisis", "Betrayal", "Endings", "Loss"],
-			"Reversed": ["Recovery", "Regeneration", "Fear of ruin", "Inevitable end"]
+			"Upright": ["Defeat", "Ruin", "Disruption", "Crisis", "Betrayal", "Endings", "Loss"],
+			"Reversed": ["Recovery", "Regeneration", "Endurance", "Fear of ruin", "Inevitable end"]
 		}
 	}, {
 		"Name": "Page of Swords",
@@ -1055,12 +980,11 @@
 		"Rank": 11,
 		"Arcana": "Minor",
 		"Title": "The Princess of the Rushing Winds: the Lotus of the Palace of Air.",
-		"Intrepretation": "Action in response to Idea: informed, strategic, wellgrounded. Relationship between astral and physical worlds, between psyche and soma. The irresistible current of science (exoteric and esoteric) to liberate with unveiled truth.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Air",
 		"Keywords": {
-			"Upright": ["Talkative", "Curious", "Mentally restless", "Energetic"],
+			"Upright": ["Talkative", "Curious", "Mentally restless", "Energetic", "Strategic"],
 			"Reversed": ["All talk and no action", "Haste", "Undelivered promises"]
 		}
 	}, {
@@ -1069,13 +993,12 @@
 		"Rank": 12,
 		"Arcana": "Minor",
 		"Title": "The Prince of the Chariot of the Winds.",
-		"Intrepretation": "Intellect functioning in its own plane. Reason accepted on its own terms. Inventive and progressive thinking. Intelligence and humanity. Yet motivated by defeat versus success, a competitive ‘win-lose’ perspective.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Air",
 		"Keywords": {
-			"Upright": ["Hasty", "Opinionated", "Action-oriented", "Communicative"],
-			"Reversed": ["Scattered throught", "Disregard for consequences"]
+			"Upright": ["Hasty", "Opinionated", "Action-oriented", "Communicative", "Progressive thinking"],
+			"Reversed": ["Scattered throught", "Disregard for consequences","Competitive 'win-lose' perspective"]
 		}
 	}, {
 		"Name": "Queen of Swords",
@@ -1083,13 +1006,12 @@
 		"Rank": 13,
 		"Arcana": "Minor",
 		"Title": "The Queen of the Thrones of Air.",
-		"Intrepretation": "'Liberator of the Mind.' The response of the egoic intellect to hunches, insight, and intuition. Alienation, isolation; possibly sorrow, grief, bereavement. Compromise, peace; divergent views brought into harmony without dismissing their differences.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Air",
 		"Keywords": {
-			"Upright": ["Quick thinker", "Organized", "Perceptive", "Independent"],
-			"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered"]
+			"Upright": ["Quick thinker", "Intuition", "Organized", "Perceptive", "Independent"],
+			"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered","Alienation", "Isolation", "Bereavement"]
 		}
 	}, {
 		"Name": "King of Swords",
@@ -1097,13 +1019,12 @@
 		"Rank": 14,
 		"Arcana": "Minor",
 		"Title": "The Lord of the Wind and the Breezes: the King of the Spirits of Air.",
-		"Intrepretation": "Cruelty, interference. The Dominion of the Intellect. Separative, discriminating, controlling, commanding, imperious. Mental discipline, analysis, precision, inquiry, discrimination. The lightning and thunder of the storm.",
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Air",
 		"Keywords": {
-			"Upright": ["Clear thinking", "Intellectual power", "Authority", "Truth"],
-			"Reversed": ["Manipulative", "Abusive", "Tyrannical"]
+			"Upright": ["Clear thinking", "Mental discipline", "Commanding","Imperious", "Intellectual power", "Authority", "Truth"],
+			"Reversed": ["Manipulative", "Abusive", "Cruelty", "Interference", "Tyrannical"]
 		}
 	}]
 }
