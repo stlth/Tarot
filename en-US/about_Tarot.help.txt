@@ -1,0 +1,11 @@
+PSTOPIC
+    about_Tarot
+
+SHORT DESCRIPTION
+    Tarot allows you to look-up and use tarot cards through PowerShell functions
+
+LONG DESCRIPTION
+    Tarot allows you to look-up and use tarot cards through PowerShell functions
+
+DETAILED DESCRIPTION
+    This is a rudimentary module that is currently under development.
