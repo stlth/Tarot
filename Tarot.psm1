@@ -34,8 +34,13 @@ foreach ($import in @($Public + $Private))
 	}
 }
 
+
+
+
 # Here I might also...
     # Read in or create an initial config file and variable
+$Script:Tarot = Get-Content -Path "$moduleRoot\lib\Tarot.json" -Raw -Verbose | ConvertFrom-Json -Verbose
     # Set variables visible to the module and its functions only
     # Export Public functions ($Public.BaseName) for WIP modules
+#Export-ModuleMember -Variable Tarot
 Export-ModuleMember -Function $Public.BaseName
