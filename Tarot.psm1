@@ -34,13 +34,15 @@ foreach ($import in @($Public + $Private))
 	}
 }
 
+# Read in initial card deck variable and preferences
+$Script:Tarot = (Get-Content -Path "$moduleRoot\lib\Tarot.json" -Raw | ConvertFrom-Json).Deck
+$Script:Tarot | ForEach-Object -Process{ $PSItem.PSObject.TypeNames.Insert(0,'TarotCard') }
 
+if (Test-Path -Path "$env:APPDATA\Tarot\Preferences.json")
+{
+    $preferences = (Get-Content -Path "$env:APPDATA\Tarot\Preferences.json" -Raw)
+}
 
-
-# Here I might also...
-    # Read in or create an initial config file and variable
-$Script:Tarot = Get-Content -Path "$moduleRoot\lib\Tarot.json" -Raw -Verbose | ConvertFrom-Json -Verbose
     # Set variables visible to the module and its functions only
     # Export Public functions ($Public.BaseName) for WIP modules
-#Export-ModuleMember -Variable Tarot
 Export-ModuleMember -Function $Public.BaseName

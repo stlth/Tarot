@@ -8,6 +8,10 @@
 		"Zodiac": "",
 		"Planet": "Uranus",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Beginnings", "Innocence", "Spontaneity", "Free spirit", "Originality"],
 			"Reversed": ["Naivety", "Foolishness", "Recklessness", "Risk-taking", "Inconsideration", "Mania", "Folly"]
@@ -21,6 +25,10 @@
 		"Zodiac": "",
 		"Planet": "Mercury",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Power", "Skill", "Concentration", "Action", "Resourcefulness", "Intelligence", "Initiative", "Adroitness"],
 			"Reversed": ["Manipulation", "Poor planning", "Latent talents", "Deceit"]
@@ -34,6 +42,10 @@
 		"Zodiac": "",
 		"Planet": "Moon",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Intuition", "Higher powers", "Mystery", "Wisdom", "Serenity", "Subconscious mind"],
 			"Reversed": ["Hidden agendas", "Self-reflection", "Repressed feelings", "Fluctuation"]
@@ -47,6 +59,10 @@
 		"Zodiac": "",
 		"Planet": "Venus",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Fertility", "Feminity", "Love", "Beauty", "Nature", "Abundance", "Fruitfulness", "Success", "Pleasure", "Graciousness"],
 			"Reversed": ["Creative block", "Dependence on others", "Idleness", "Debauchery", "Dissipation"]
@@ -60,6 +76,10 @@
 		"Zodiac": "Aries",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Authority", "Father-figure", "Structure", "Solid foundation", "Solidity", "Control", "Ambition", "Vigor", "Power", "Energy"],
 			"Reversed": ["Domination", "Excessive control", "Rigidity", "Inflexibility", "Strife", "Quarrels", "Stubbornness", "Rashness"]
@@ -73,6 +93,10 @@
 		"Zodiac": "Taurus",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Religion", "Group identification", "Conformity", "Tradition", "Beliefs", "Wisdom", "Intuition"],
 			"Reversed": ["Restriction", "Challenging the status quo", "Stillness"]
@@ -86,6 +110,10 @@
 		"Zodiac": "Gemini",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Love", "Union", "Relationships", "Values alignment", "Choices", "Inspiration"],
 			"Reversed": ["Disharmony", "Imbalance", "Misalignment of values", "Instability"]
@@ -99,6 +127,10 @@
 		"Zodiac": "Cancer",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Control", "Will power", "Victory", "Assertion", "Determination", "Triumph", "Hope"],
 			"Reversed": ["Lack of control and direction", "Aggression", "Ruthless", "Lust of destruction"]
@@ -112,8 +144,12 @@
 		"Zodiac": "Leo",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
-			"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion", "Equalibrium","Justice"],
+			"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion", "Equalibrium", "Justice"],
 			"Reversed": ["Weakness", "Self-doubt", "Lack of self-discipline", "Trial", "Judgement"]
 		}
 	}, {
@@ -125,6 +161,10 @@
 		"Zodiac": "Virgo",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Soul-searching", "Introspection", "Being alone", "Inner guidance", "Illumination from within"],
 			"Reversed": ["Isolation", "Loneliness", "Withdrawal", "Prudence", "Circumspection", "Solitude"]
@@ -138,6 +178,10 @@
 		"Zodiac": "",
 		"Planet": "Jupiter",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Good luck", "Karma", "Life cycles", "A turning point"],
 			"Reversed": ["Bad luck", "Negative external forces", "Out of control", "Intoxication of success"]
@@ -151,6 +195,10 @@
 		"Zodiac": "Libra",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Justice", "Fairness", "Truth", "Cause and effect", "Law", "Courage", "Strength", "Fortitude"],
 			"Reversed": ["Unfairness", "Lack of accountability", "Dishonesty", "Disarray"]
@@ -164,6 +212,10 @@
 		"Zodiac": "",
 		"Planet": "Neptune",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Suspension", "Restriction", "Letting go", "Sacrifice", "Renunciation"],
 			"Reversed": ["Martyrdom", "Indecision", "Delay", "Suffering", "Loss"]
@@ -177,6 +229,10 @@
 		"Zodiac": "Scorpio",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Endings", "Beginnings", "Change", "Transformation", "Transition", "Metamorphosis"],
 			"Reversed": ["Resistance to change", "Unable to move on", "Hesitant", "Reluctance"]
@@ -190,6 +246,10 @@
 		"Zodiac": "Sagittarius",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Balance", "Moderation", "Patience", "Purpose", "Meaning", "Realization", "Aspiration", "Ambition"],
 			"Reversed": ["Imbalance", "Excess", "Ordeal", "Testing", "Lack of long-term vision"]
@@ -203,6 +263,10 @@
 		"Zodiac": "Capricorn",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Temptation", "Obsession", "Bondage", "Addiction", "Sexuality", "Materialism"],
 			"Reversed": ["Detachment", "Breaking free", "Power reclaimed"]
@@ -216,6 +280,10 @@
 		"Zodiac": "",
 		"Planet": "Mars",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Disaster", "Upheaval", "Sudden change", "Destabilization", "Questioning your beliefs"],
 			"Reversed": ["Avoidance of disaster", "Fear of change", "Resistance to change"]
@@ -229,6 +297,10 @@
 		"Zodiac": "Aquarius",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Hope", "Spirituality", "Renewal", "Inspiration", "Serenity", "Clear vision"],
 			"Reversed": ["Lack of faith", "Despair", "Discouragement", "Judgement errors", "Dissappointment"]
@@ -242,6 +314,10 @@
 		"Zodiac": "Pisces",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Illusion", "Bewilderment", "Fear", "Anxiety", "Insecurity", "Subconscious", "Deception"],
 			"Reversed": ["Release of fear", "Unhappiness", "Confusion", "Dissociation from reality", "Misunderstanding"]
@@ -255,6 +331,10 @@
 		"Zodiac": "",
 		"Planet": "Sun",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Fun", "Warmth", "Freedom", "Candor", "Success", "Positivity", "Vitality"],
 			"Reversed": ["Temporary depression", "Lack of success", "Arrogance", "Vanity"]
@@ -268,6 +348,10 @@
 		"Zodiac": "",
 		"Planet": "Pluto",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Judgement", "Rebirth", "Inner calling", "Absolution"],
 			"Reversed": ["Self-doubt", "Refusal of self-examination", "Difficulties overcoming obstacles"]
@@ -281,6 +365,10 @@
 		"Zodiac": "",
 		"Planet": "Saturn",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Completion", "Synthesis", "Conclusion", "Integration", "Accomplishment", "Travel"],
 			"Reversed": ["Lack of completion", "Lack of closure", "Delay", "Opposition"]
@@ -294,6 +382,10 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "",
+		"Realm": "",
+		"PlayingCard": "",
+		"Gender": "",
+		"Directions": "",
 		"Keywords": {
 			"Upright": ["Unknown", "Random"],
 			"Reversed": ["Unforseeable", "Irony"]
@@ -307,6 +399,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Manifestation", "New financial opportunity", "Prosperity", "Wealth", "Contentment"],
 			"Reversed": ["Lost opportunity", "Lack of planning", "Lack of foresight", "Corruption"]
@@ -320,6 +417,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Balance", "Adaptability", "Time management", "Prioritization", "Cyclicity"],
 			"Reversed": ["Disorganization", "Financial disarray", "Inconsistent"]
@@ -333,9 +435,14 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Teamwork", "Initial fulfilment", "Collaboration", "Learning", "Construction", "Endurance"],
-			"Reversed": ["Disregard for skills", "Lack of teamwork", "Lack of planning","Competition"]
+			"Reversed": ["Disregard for skills", "Lack of teamwork", "Lack of planning", "Competition"]
 		}
 	}, {
 		"Name": "Four of Pentacles",
@@ -346,6 +453,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Control", "Stability", "Security", "Possession", "Conservatism", "Authority"],
 			"Reversed": ["Greed", "Materialism", "Self-protection", "Dominion", "Self-aggrandizement"]
@@ -359,6 +471,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Isolation", "Insecurity", "Worry", "Financial loss", "Poverty", "Anxiety", "Duress"],
 			"Reversed": ["Recovery from financial loss", "Spiritual poverty", "Analysis"]
@@ -372,6 +489,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Generosity", "Charity", "Prosperity", "Philanthropy", "Giving", "Sharing wealth", "Gain"],
 			"Reversed": ["Debt", "Selfishness", "One-sided charity"]
@@ -385,6 +507,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Vision", "Perseverance", "Profit", "Determination", "Reward", "Investment"],
 			"Reversed": ["Lack of long-term vision", "Limited success or reward", "Dissappointment", "Lost motivation"]
@@ -398,6 +525,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Education", "Apprenticeship", "Quality", "Engagement", "Calculating", "Diligence", "Orderly"],
 			"Reversed": ["Perfectionism", "Lacking ambition or focus", "Prudence"]
@@ -411,6 +543,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Gratitide", "Luxury", "Self-sufficiency", "Culmination", "Fruitfulness"],
 			"Reversed": ["Over-investment in work", "Foolish actions", "Financial setbacks"]
@@ -424,6 +561,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Wealth", "Prosperity", "Inheritance", "Family", "Establishment", "Retirement"],
 			"Reversed": ["Financial failure", "Loneliness", "Loss", "Limitations on future success"]
@@ -437,6 +579,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Manifestation", "Financial opportunity", "New job"],
 			"Reversed": ["Lack of progress and planning", "Short-term focus", "Block to goal"]
@@ -450,6 +597,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Efficiency", "Routine", "Methodical", "Conservatism", "Reason"],
 			"Reversed": ["Boredom", "Laziness", "Objectivity"]
@@ -463,6 +615,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Practical", "Homely", "Down-to-earth", "Security", "Nuturing"],
 			"Reversed": ["Imbalance in work commitments", "Imbalance in family commitments", "Isolation"]
@@ -476,6 +633,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Earth",
+		"Realm": "Home",
+		"PlayingCard": "Diamonds",
+		"Gender": "Female",
+		"Directions": "East",
+		"Seasons": "Fall",
 		"Keywords": {
 			"Upright": ["Security", "Control", "Power", "Discipline", "Abundance"],
 			"Reversed": ["Authoritative", "Domineering", "Controlling", "Relentless"]
@@ -489,6 +651,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Inspiration", "Power", "Creation", "Beginnings", "Potential"],
 			"Reversed": ["Delays", "Unmotivated", "Weighed down", "Uninspired"]
@@ -502,6 +669,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Future planning", "Progress", "Decisions", "Discovery"],
 			"Reversed": ["Fear of unknown", "Lack of planning", "Obstruction to goal"]
@@ -515,6 +687,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Preparation", "Foresight", "Enterprise", "Expansion"],
 			"Reversed": ["Lack of foresight", "Delays", "Conceit", "Obstacles to long-term goals"]
@@ -528,6 +705,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Celebration", "Harmony", "Marriage", "Home", "Comfort", "Community"],
 			"Reversed": ["Communication breakdown", "Transition", "Idleness"]
@@ -541,6 +723,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Disagreement", "Competition", "Strife", "Tension", "Struggle", "Conflict"],
 			"Reversed": ["Conflict avoidance", "Diversity", "Agreeing to disagree", "Competition"]
@@ -554,6 +741,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Public recognition", "Victory", "Progress", "Self-confidence", "Leadership"],
 			"Reversed": ["Egotism", "Disrepute", "Insolence", "Lack of confidence", "Fall from grace"]
@@ -567,6 +759,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Challenge", "Competition", "Perseverance", "Enthusiasm", "Passion"],
 			"Reversed": ["Overwhelmed", "Giving up", "Overly protective", "Defensive"]
@@ -580,6 +777,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Action", "Speed", "Air travel", "Movement", "Swift change", "Rush"],
 			"Reversed": ["Delays", "Frustration", "Holding off", "Narrow"]
@@ -593,6 +795,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Courage", "Persistence", "Test of faith", "Resilience", "Power", "Ardent"],
 			"Reversed": ["Defensive", "On edge", "Hesitant", "Paranoia"]
@@ -606,6 +813,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Burden", "Responsibility", "Hard work", "Stress", "Achievement", "Restriction", "Endurance"],
 			"Reversed": ["Taking on too much", "Avoiding responsibility", "Oppression"]
@@ -619,6 +831,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Enthusiasm", "Exploration", "Discovery", "Free spirit", "Creative impulse"],
 			"Reversed": ["Pessimism", "Lack of direction", "Setbacks to new ideas"]
@@ -632,6 +849,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Energy", "Passion", "Lust", "Action", "Adventure", "Impulsiveness", "Lucidity"],
 			"Reversed": ["Haste", "Scattered energy", "Delays", "Frustration", "Strife"]
@@ -645,6 +867,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Exuberance", "Warmth", "Vibrancy", "Determination", "Vibrancy"],
 			"Reversed": ["Agressive,", "Demanding", "Reflection", "Meditation"]
@@ -658,6 +885,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Fire",
+		"Realm": "Spirit",
+		"PlayingCard": "Clubs",
+		"Gender": "Male",
+		"Directions": "South",
+		"Seasons": "Spring",
 		"Keywords": {
 			"Upright": ["Vision", "Natural-born leader", "Entrepreneur", "Honor", "Creative"],
 			"Reversed": ["Impulsiveness", "Haste", "Ruthless", "High expectations"]
@@ -671,6 +903,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Love", "Compassion", "Creativity", "Pleasure", "Happiness", "Overwhelming emotion"],
 			"Reversed": ["Blocked emotions", "Repressed emotions", "Emotional numbness"]
@@ -684,6 +921,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Partnership", "Attraction", "Unified love", "Relationships", "Reciprocity"],
 			"Reversed": ["Break-up", "Imbalance in relationship", "Lack of harmony", "Reflection"]
@@ -697,6 +939,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Celebration", "Friendship", "Creativity", "Community", "Merriment"],
 			"Reversed": ["An affair", "Stifled creativity", "Isolation from others"]
@@ -710,6 +957,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Meditation", "Contemplation", "Apathy", "Re-evaluation", "Devotion"],
 			"Reversed": ["Boredom", "Missed opportunity", "Aloof", "Lazy", "Jaded", "Negligent"]
@@ -723,6 +975,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Loss", "Regret", "Disappointment", "Despair", "Bereavement"],
 			"Reversed": ["Acceptance", "Forgiveness", "Detraction", "Moving on"]
@@ -736,6 +993,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Reunion", "Nostalgia", "Childhood memories", "Innocence"],
 			"Reversed": ["Naivety", "Unrealistic", "Stuck in the past"]
@@ -749,6 +1011,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Fantasy", "Illusion", "Wishful thinking", "Choices", "Imagaination"],
 			"Reversed": ["Temptation", "Deception", "Debauchery", "Diversionary tactics", "Unfulfilled promises"]
@@ -762,6 +1029,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Escapism", "Disappointment", "Abandonment", "Withdrawal", "Loneliness"],
 			"Reversed": ["Hopelessness", "Depression", "Burn-out", "Aimless drifting", "Walking away"]
@@ -775,6 +1047,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Wishes fulfilled", "Comfort", "Happiness", "Pleasure", "Satisfaction"],
 			"Reversed": ["Greed", "Dissatisfaction", "Materialism", "Vain"]
@@ -788,6 +1065,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Harmony", "Marriage", "Happiness", "Alignment", "Satiety"],
 			"Reversed": ["Misalignment of values", "Lack of self-control", "Debauchery", "Waste"]
@@ -801,6 +1083,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Synchronicity", "Ideas", "A messenger", "Creative beginnings"],
 			"Reversed": ["Emotional immaturity", "Creative block", "Emotional insecurity"]
@@ -814,6 +1101,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Romance", "Passion", "Charm", "Imagination"],
 			"Reversed": ["Unrealistic", "Jealousy", "Moodiness", "Emotional incapacity"]
@@ -827,6 +1119,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Emotional security", "Calm", "Intuitive", "Compassionate", "Peace"],
 			"Reversed": ["Emotional insecurity", "Co-dependency", "Reflection", "Dissatisfaction", "Out of touch"]
@@ -840,6 +1137,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Water",
+		"Realm": "Heart",
+		"PlayingCard": "Hearts",
+		"Gender": "Female",
+		"Directions": "West",
+		"Seasons": "Summer",
 		"Keywords": {
 			"Upright": ["Emotional balance", "Emotional control", "Happiness", "Inspiration", "Indolence"],
 			"Reversed": ["Emotional manipulation", "Moodiness", "Volatility", "Passivity", "Conformity"]
@@ -853,6 +1155,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Raw power", "Victory", "Break-throughs", "Mental clarity", "Inspiration"],
 			"Reversed": ["Confusion", "Chaos", "Lack of clarity", "Clouded judgement"]
@@ -866,6 +1173,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Indecision", "Choices", "Truce", "Stalemate", "Blocked emotions"],
 			"Reversed": ["Confusion", "Information overload", "Emotional division"]
@@ -879,6 +1191,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Painful separation", "Sorrow", "Disappointment", "Heartbreak", "Grief", "Rejection", "Melancholy"],
 			"Reversed": ["Releasing pain", "Optimism", "Forgiveness", "Faithful in promises"]
@@ -892,6 +1209,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Contemplation", "Recuperation", "Restoration", "Passivity", "Relaxation", "Rest"],
 			"Reversed": ["Restlessness", "Burn-out", "Lack of progress", "Stagnation"]
@@ -905,6 +1227,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Conflict", "Tension", "Failure", "Defeat", "Mental anguish", "Win at all costs", "Betrayal"],
 			"Reversed": ["Open to change", "Past resentment"]
@@ -918,6 +1245,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Regretful but necessary transition", "Rite of passage", "Progressive thinking"],
 			"Reversed": ["Cannot move on", "Carrying baggage"]
@@ -931,6 +1263,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Betrayal", "Deception", "Getting away with something", "Stealth"],
 			"Reversed": ["Mental challenges", "Doubt", "Moodiness", "Breaking free", "Adaption"]
@@ -944,6 +1281,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Isolation", "Self-imposed restriction", "Imprisonment", "Indecision", "Distractible"],
 			"Reversed": ["Open to new perspectives", "Release"]
@@ -957,6 +1299,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Depression", "Nightmares", "Intense anxiety", "Restlessness", "Despair"],
 			"Reversed": ["Hopelessness", "Severe depression", "Torment", "Emotional pain"]
@@ -970,6 +1317,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Defeat", "Ruin", "Disruption", "Crisis", "Betrayal", "Endings", "Loss"],
 			"Reversed": ["Recovery", "Regeneration", "Endurance", "Fear of ruin", "Inevitable end"]
@@ -983,6 +1335,11 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Earth of Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Talkative", "Curious", "Mentally restless", "Energetic", "Strategic"],
 			"Reversed": ["All talk and no action", "Haste", "Undelivered promises"]
@@ -996,9 +1353,14 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Fire of Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Hasty", "Opinionated", "Action-oriented", "Communicative", "Progressive thinking"],
-			"Reversed": ["Scattered throught", "Disregard for consequences","Competitive 'win-lose' perspective"]
+			"Reversed": ["Scattered throught", "Disregard for consequences", "Competitive 'win-lose' perspective"]
 		}
 	}, {
 		"Name": "Queen of Swords",
@@ -1009,9 +1371,14 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Water of Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
 			"Upright": ["Quick thinker", "Intuition", "Organized", "Perceptive", "Independent"],
-			"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered","Alienation", "Isolation", "Bereavement"]
+			"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered", "Alienation", "Isolation", "Bereavement"]
 		}
 	}, {
 		"Name": "King of Swords",
@@ -1022,8 +1389,13 @@
 		"Zodiac": "",
 		"Planet": "",
 		"Element": "Air of Air",
+		"Realm": "Mind",
+		"PlayingCard": "Spades",
+		"Gender": "Male",
+		"Directions": "North",
+		"Seasons": "Winter",
 		"Keywords": {
-			"Upright": ["Clear thinking", "Mental discipline", "Commanding","Imperious", "Intellectual power", "Authority", "Truth"],
+			"Upright": ["Clear thinking", "Mental discipline", "Commanding", "Imperious", "Intellectual power", "Authority", "Truth"],
 			"Reversed": ["Manipulative", "Abusive", "Cruelty", "Interference", "Tyrannical"]
 		}
 	}]
