@@ -1,8 +1,8 @@
 ﻿<#
 .Synopsis
-   Get a specific card
+   Get a card
 .DESCRIPTION
-   Get a specific tarot card from the deck
+   Get a specific tarot card from the deck. If a specific card is not supplied, the whole deck is returned.
 .EXAMPLE
    Get-TarotCard -CardName 'The Fool'
 #>

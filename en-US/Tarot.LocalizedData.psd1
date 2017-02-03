@@ -2,6 +2,7 @@
 ConvertFrom-StringData -StringData @'
 ErrorModuleFailedToImportFunction=Failed to import function: {0}: {1}
 VerboseListingParametersUtilized=Listing Parameters utilized:
+GetPreferenceUsingDefaults=No preferences are set. Currently using default values.
 SuitTrump=Trump
 SuitPentacles=Pentacles
 SuitDiscs=Discs
@@ -14,7 +15,7 @@ SuitChalices=Chalices
 SuitGoblets=Goblets
 SuitSwords=Swords
 SuitBlades=Blades
-SuitAthame=Athame
+SuitAthames=Athames
 CardAce=Ace
 CardTwo=Two
 CardThree=Three
