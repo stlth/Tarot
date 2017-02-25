@@ -30,18 +30,17 @@ function Set-TarotPreference
     [OutputType([String])]
     Param
     (
-        # Param1 help description
+        # Pentacles suit name
         [Parameter(Mandatory=$false,
                    Position=0,
                    ParameterSetName='Suit Preference')]
         [ValidateNotNull()]
         [ValidateNotNullOrEmpty()]
         [ValidateSet('Pentacles','Discs','Coins')]
-        [ValidateSet('Pentacles','Discs','Coins')]
         [Alias()] 
         [string]
         $NewPentaclesName,
-        # Param2 help description
+        # Wands suit name
         [Parameter(Mandatory=$false,
                    Position=1,
                    ParameterSetName='Suit Preference')]
@@ -51,7 +50,7 @@ function Set-TarotPreference
         [Alias()] 
         [string]
         $NewWandsName,
-        # Param3 help description
+        # Cups suit name
         [Parameter(Mandatory=$false,
                    Position=2,
                    ParameterSetName='Suit Preference')]
@@ -61,7 +60,7 @@ function Set-TarotPreference
         [Alias()] 
         [string]
         $NewCupsName,
-        # Param4 help description
+        # Swords suit name
         [Parameter(Mandatory=$false,
                    Position=3,
                    ParameterSetName='Suit Preference')]
@@ -71,7 +70,8 @@ function Set-TarotPreference
         [Alias()] 
         [string]
         $NewSwordsName,
-        [switch]
+        # Include surprise
+        [bool]
         $IncludeOptionalCard
     )
 
@@ -90,9 +90,15 @@ function Set-TarotPreference
             
             $oldpreference = (Get-Content -Path "$path" -Raw | ConvertFrom-Json)
             $newpreference = $oldpreference
+            $oldpreference
             
             if ($PSBoundParameters['NewPentaclesName'])
             {
+                if ($NewPentaclesName -eq $oldpreference.PentaclesPreferredName)
+                {
+                    Write-Host "Same pentacles value!" -ForegroundColor Cyan
+                    break
+                }
                 switch ($NewPentaclesName)
                 {
                     'Pentacles'
@@ -111,6 +117,11 @@ function Set-TarotPreference
             }
             if ($PSBoundParameters['NewWandsName'])
             {
+                if ($NewWandsName -eq $oldpreference.WandsPreferredName)
+                {
+                    Write-Host "Same wands value!" -ForegroundColor Cyan
+                    break
+                }
                 switch ($NewWandsName)
                 {
                     'Wands'
@@ -129,6 +140,11 @@ function Set-TarotPreference
             }
             if ($PSBoundParameters['NewCupsName'])
             {
+                if ($NewCupsName -eq $oldpreference.CupsPreferredName)
+                {
+                    Write-Host "Same cups value!" -ForegroundColor Cyan
+                    break
+                }
                 switch ($NewCupsName)
                 {
                     'Cups'
@@ -147,6 +163,11 @@ function Set-TarotPreference
             }
             if ($PSBoundParameters['NewSwordsName'])
             {
+                if ($NewSwordsName -eq $oldpreference.SwordsPreferredName)
+                {
+                    Write-Host "Same swords value!" -ForegroundColor Cyan
+                    break
+                }
                 switch ($NewSwordsSuitName)
                 {
                     'Swords'
@@ -165,11 +186,7 @@ function Set-TarotPreference
             }
             if ($PSBoundParameters['IncludeOptionalCard'])
             {
-                $newpreference.IncludeOptionalCard = $true
-            }
-            else
-            {
-                $newpreference.IncludeOptionalCard = $false
+                $newpreference.IncludeOptionalCard = $IncludeOptionalCard
             }
             $newpreference.LastModifiedDate = (Get-Date)
             Set-Content -Path "$path" -Value ($newpreference | ConvertTo-Json)
