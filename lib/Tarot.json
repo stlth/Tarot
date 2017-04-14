@@ -1,1402 +1,1400 @@
-{
-	"Deck": [{
-		"Name": "The Fool",
-		"Suit": "Trump",
-		"Rank": 0,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Uranus",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Beginnings", "Innocence", "Spontaneity", "Free spirit", "Originality"],
-			"Reversed": ["Naivety", "Foolishness", "Recklessness", "Risk-taking", "Inconsideration", "Mania", "Folly"]
-		}
-	}, {
-		"Name": "The Magician",
-		"Suit": "Trump",
-		"Rank": 1,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Mercury",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Power", "Skill", "Concentration", "Action", "Resourcefulness", "Intelligence", "Initiative", "Adroitness"],
-			"Reversed": ["Manipulation", "Poor planning", "Latent talents", "Deceit"]
-		}
-	}, {
-		"Name": "The High Priestess",
-		"Suit": "Trump",
-		"Rank": 2,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Moon",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Intuition", "Higher powers", "Mystery", "Wisdom", "Serenity", "Subconscious mind"],
-			"Reversed": ["Hidden agendas", "Self-reflection", "Repressed feelings", "Fluctuation"]
-		}
-	}, {
-		"Name": "The Empress",
-		"Suit": "Trump",
-		"Rank": 3,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Venus",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Fertility", "Feminity", "Love", "Beauty", "Nature", "Abundance", "Fruitfulness", "Success", "Pleasure", "Graciousness"],
-			"Reversed": ["Creative block", "Dependence on others", "Idleness", "Debauchery", "Dissipation"]
-		}
-	}, {
-		"Name": "The Emperor",
-		"Suit": "Trump",
-		"Rank": 4,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Aries",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Authority", "Father-figure", "Structure", "Solid foundation", "Solidity", "Control", "Ambition", "Vigor", "Power", "Energy"],
-			"Reversed": ["Domination", "Excessive control", "Rigidity", "Inflexibility", "Strife", "Quarrels", "Stubbornness", "Rashness"]
-		}
-	}, {
-		"Name": "The Hierophant",
-		"Suit": "Trump",
-		"Rank": 5,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Taurus",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Religion", "Group identification", "Conformity", "Tradition", "Beliefs", "Wisdom", "Intuition"],
-			"Reversed": ["Restriction", "Challenging the status quo", "Stillness"]
-		}
-	}, {
-		"Name": "The Lovers",
-		"Suit": "Trump",
-		"Rank": 6,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Gemini",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Love", "Union", "Relationships", "Values alignment", "Choices", "Inspiration"],
-			"Reversed": ["Disharmony", "Imbalance", "Misalignment of values", "Instability"]
-		}
-	}, {
-		"Name": "The Chariot",
-		"Suit": "Trump",
-		"Rank": 7,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Cancer",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Control", "Will power", "Victory", "Assertion", "Determination", "Triumph", "Hope"],
-			"Reversed": ["Lack of control and direction", "Aggression", "Ruthless", "Lust of destruction"]
-		}
-	}, {
-		"Name": "Strength",
-		"Suit": "Trump",
-		"Rank": 8,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Leo",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion", "Equalibrium", "Justice"],
-			"Reversed": ["Weakness", "Self-doubt", "Lack of self-discipline", "Trial", "Judgement"]
-		}
-	}, {
-		"Name": "The Hermit",
-		"Suit": "Trump",
-		"Rank": 9,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Virgo",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Soul-searching", "Introspection", "Being alone", "Inner guidance", "Illumination from within"],
-			"Reversed": ["Isolation", "Loneliness", "Withdrawal", "Prudence", "Circumspection", "Solitude"]
-		}
-	}, {
-		"Name": "Wheel of Fortune",
-		"Suit": "Trump",
-		"Rank": 10,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Jupiter",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Good luck", "Karma", "Life cycles", "A turning point"],
-			"Reversed": ["Bad luck", "Negative external forces", "Out of control", "Intoxication of success"]
-		}
-	}, {
-		"Name": "Justice",
-		"Suit": "Trump",
-		"Rank": 11,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Libra",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Justice", "Fairness", "Truth", "Cause and effect", "Law", "Courage", "Strength", "Fortitude"],
-			"Reversed": ["Unfairness", "Lack of accountability", "Dishonesty", "Disarray"]
-		}
-	}, {
-		"Name": "The Hanged Man",
-		"Suit": "Trump",
-		"Rank": 12,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Neptune",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Suspension", "Restriction", "Letting go", "Sacrifice", "Renunciation"],
-			"Reversed": ["Martyrdom", "Indecision", "Delay", "Suffering", "Loss"]
-		}
-	}, {
-		"Name": "Death",
-		"Suit": "Trump",
-		"Rank": 13,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Scorpio",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Endings", "Beginnings", "Change", "Transformation", "Transition", "Metamorphosis"],
-			"Reversed": ["Resistance to change", "Unable to move on", "Hesitant", "Reluctance"]
-		}
-	}, {
-		"Name": "Temperance",
-		"Suit": "Trump",
-		"Rank": 14,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Sagittarius",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Balance", "Moderation", "Patience", "Purpose", "Meaning", "Realization", "Aspiration", "Ambition"],
-			"Reversed": ["Imbalance", "Excess", "Ordeal", "Testing", "Lack of long-term vision"]
-		}
-	}, {
-		"Name": "The Devil",
-		"Suit": "Trump",
-		"Rank": 15,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Capricorn",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Temptation", "Obsession", "Bondage", "Addiction", "Sexuality", "Materialism"],
-			"Reversed": ["Detachment", "Breaking free", "Power reclaimed"]
-		}
-	}, {
-		"Name": "The Tower",
-		"Suit": "Trump",
-		"Rank": 16,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Mars",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Disaster", "Upheaval", "Sudden change", "Destabilization", "Questioning your beliefs"],
-			"Reversed": ["Avoidance of disaster", "Fear of change", "Resistance to change"]
-		}
-	}, {
-		"Name": "The Star",
-		"Suit": "Trump",
-		"Rank": 17,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Aquarius",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Hope", "Spirituality", "Renewal", "Inspiration", "Serenity", "Clear vision"],
-			"Reversed": ["Lack of faith", "Despair", "Discouragement", "Judgement errors", "Dissappointment"]
-		}
-	}, {
-		"Name": "The Moon",
-		"Suit": "Trump",
-		"Rank": 18,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "Pisces",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Illusion", "Bewilderment", "Fear", "Anxiety", "Insecurity", "Subconscious", "Deception"],
-			"Reversed": ["Release of fear", "Unhappiness", "Confusion", "Dissociation from reality", "Misunderstanding"]
-		}
-	}, {
-		"Name": "The Sun",
-		"Suit": "Trump",
-		"Rank": 19,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Sun",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Fun", "Warmth", "Freedom", "Candor", "Success", "Positivity", "Vitality"],
-			"Reversed": ["Temporary depression", "Lack of success", "Arrogance", "Vanity"]
-		}
-	}, {
-		"Name": "Judgement",
-		"Suit": "Trump",
-		"Rank": 20,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Pluto",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Judgement", "Rebirth", "Inner calling", "Absolution"],
-			"Reversed": ["Self-doubt", "Refusal of self-examination", "Difficulties overcoming obstacles"]
-		}
-	}, {
-		"Name": "The World",
-		"Suit": "Trump",
-		"Rank": 21,
-		"Arcana": "Major",
-		"Title": "",
-		"Zodiac": "",
-		"Planet": "Saturn",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Completion", "Synthesis", "Conclusion", "Integration", "Accomplishment", "Travel"],
-			"Reversed": ["Lack of completion", "Lack of closure", "Delay", "Opposition"]
-		}
-	}, {
-		"Name": "The Happy Squirrel",
-		"Suit": "Trump",
-		"Rank": 22,
-		"Arcana": "Easter Egg",
-		"Title": "An unknown factor which cannot be revealed at this time; a random element which cannot be controlled and represents the unforseeable.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "",
-		"Realm": "",
-		"PlayingCard": "",
-		"Gender": "",
-		"Direction": "",
-		"Keywords": {
-			"Upright": ["Unknown", "Random"],
-			"Reversed": ["Unforseeable", "Irony"]
-		}
-	}, {
-		"Name": "Ace of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 1,
-		"Arcana": "Minor",
-		"Title": "The Root of the Powers of Earth.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Manifestation", "New financial opportunity", "Prosperity", "Wealth", "Contentment"],
-			"Reversed": ["Lost opportunity", "Lack of planning", "Lack of foresight", "Corruption"]
-		}
-	}, {
-		"Name": "Two of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 2,
-		"Arcana": "Minor",
-		"Title": "Harmonious Change",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Balance", "Adaptability", "Time management", "Prioritization", "Cyclicity"],
-			"Reversed": ["Disorganization", "Financial disarray", "Inconsistent"]
-		}
-	}, {
-		"Name": "Three of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 3,
-		"Arcana": "Minor",
-		"Title": "Work",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Teamwork", "Initial fulfilment", "Collaboration", "Learning", "Construction", "Endurance"],
-			"Reversed": ["Disregard for skills", "Lack of teamwork", "Lack of planning", "Competition"]
-		}
-	}, {
-		"Name": "Four of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 4,
-		"Arcana": "Minor",
-		"Title": "Earthly Power",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Control", "Stability", "Security", "Possession", "Conservatism", "Authority"],
-			"Reversed": ["Greed", "Materialism", "Self-protection", "Dominion", "Self-aggrandizement"]
-		}
-	}, {
-		"Name": "Five of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 5,
-		"Arcana": "Minor",
-		"Title": "Worry",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Isolation", "Insecurity", "Worry", "Financial loss", "Poverty", "Anxiety", "Duress"],
-			"Reversed": ["Recovery from financial loss", "Spiritual poverty", "Analysis"]
-		}
-	}, {
-		"Name": "Six of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 6,
-		"Arcana": "Minor",
-		"Title": "Material Success",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Generosity", "Charity", "Prosperity", "Philanthropy", "Giving", "Sharing wealth", "Gain"],
-			"Reversed": ["Debt", "Selfishness", "One-sided charity"]
-		}
-	}, {
-		"Name": "Seven of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 7,
-		"Arcana": "Minor",
-		"Title": "Failure",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Vision", "Perseverance", "Profit", "Determination", "Reward", "Investment"],
-			"Reversed": ["Lack of long-term vision", "Limited success or reward", "Dissappointment", "Lost motivation"]
-		}
-	}, {
-		"Name": "Eight of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 8,
-		"Arcana": "Minor",
-		"Title": "Prudence",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Education", "Apprenticeship", "Quality", "Engagement", "Calculating", "Diligence", "Orderly"],
-			"Reversed": ["Perfectionism", "Lacking ambition or focus", "Prudence"]
-		}
-	}, {
-		"Name": "Nine of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 9,
-		"Arcana": "Minor",
-		"Title": "Material Gain",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Gratitide", "Luxury", "Self-sufficiency", "Culmination", "Fruitfulness"],
-			"Reversed": ["Over-investment in work", "Foolish actions", "Financial setbacks"]
-		}
-	}, {
-		"Name": "Ten of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 10,
-		"Arcana": "Minor",
-		"Title": "Wealth",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Wealth", "Prosperity", "Inheritance", "Family", "Establishment", "Retirement"],
-			"Reversed": ["Financial failure", "Loneliness", "Loss", "Limitations on future success"]
-		}
-	}, {
-		"Name": "Page of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 11,
-		"Arcana": "Minor",
-		"Title": "The Princess of the Echoing Hills: the Rose of the Palace of Earth.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth of Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Manifestation", "Financial opportunity", "New job"],
-			"Reversed": ["Lack of progress and planning", "Short-term focus", "Block to goal"]
-		}
-	}, {
-		"Name": "Knight of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 12,
-		"Arcana": "Minor",
-		"Title": "The Prince of the Chariot of Earth.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire of Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Efficiency", "Routine", "Methodical", "Conservatism", "Reason"],
-			"Reversed": ["Boredom", "Laziness", "Objectivity"]
-		}
-	}, {
-		"Name": "Queen of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 13,
-		"Arcana": "Minor",
-		"Title": "The Queen of the Thrones of Earth.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water of Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Practical", "Homely", "Down-to-earth", "Security", "Nuturing"],
-			"Reversed": ["Imbalance in work commitments", "Imbalance in family commitments", "Isolation"]
-		}
-	}, {
-		"Name": "King of Pentacles",
-		"Suit": "Pentacles",
-		"Rank": 14,
-		"Arcana": "Minor",
-		"Title": "The Lord of the Wide and Fertile Land: the King of the Spirits of Earth.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air of Earth",
-		"Realm": "Home",
-		"PlayingCard": "Diamonds",
-		"Gender": "Female",
-		"Direction": "East",
-		"Seasons": "Fall",
-		"Keywords": {
-			"Upright": ["Security", "Control", "Power", "Discipline", "Abundance"],
-			"Reversed": ["Authoritative", "Domineering", "Controlling", "Relentless"]
-		}
-	}, {
-		"Name": "Ace of Wands",
-		"Suit": "Wands",
-		"Rank": 1,
-		"Arcana": "Minor",
-		"Title": "The Root of the Powers of Fire.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Inspiration", "Power", "Creation", "Beginnings", "Potential"],
-			"Reversed": ["Delays", "Unmotivated", "Weighed down", "Uninspired"]
-		}
-	}, {
-		"Name": "Two of Wands",
-		"Suit": "Wands",
-		"Rank": 2,
-		"Arcana": "Minor",
-		"Title": "Dominion",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Future planning", "Progress", "Decisions", "Discovery"],
-			"Reversed": ["Fear of unknown", "Lack of planning", "Obstruction to goal"]
-		}
-	}, {
-		"Name": "Three of Wands",
-		"Suit": "Wands",
-		"Rank": 3,
-		"Arcana": "Minor",
-		"Title": "Virtue",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Preparation", "Foresight", "Enterprise", "Expansion"],
-			"Reversed": ["Lack of foresight", "Delays", "Conceit", "Obstacles to long-term goals"]
-		}
-	}, {
-		"Name": "Four of Wands",
-		"Suit": "Wands",
-		"Rank": 4,
-		"Arcana": "Minor",
-		"Title": "Completion",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Celebration", "Harmony", "Marriage", "Home", "Comfort", "Community"],
-			"Reversed": ["Communication breakdown", "Transition", "Idleness"]
-		}
-	}, {
-		"Name": "Five of Wands",
-		"Suit": "Wands",
-		"Rank": 5,
-		"Arcana": "Minor",
-		"Title": "Strife",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Disagreement", "Competition", "Strife", "Tension", "Struggle", "Conflict"],
-			"Reversed": ["Conflict avoidance", "Diversity", "Agreeing to disagree", "Competition"]
-		}
-	}, {
-		"Name": "Six of Wands",
-		"Suit": "Wands",
-		"Rank": 6,
-		"Arcana": "Minor",
-		"Title": "Victory",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Public recognition", "Victory", "Progress", "Self-confidence", "Leadership"],
-			"Reversed": ["Egotism", "Disrepute", "Insolence", "Lack of confidence", "Fall from grace"]
-		}
-	}, {
-		"Name": "Seven of Wands",
-		"Suit": "Wands",
-		"Rank": 7,
-		"Arcana": "Minor",
-		"Title": "Valor",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Challenge", "Competition", "Perseverance", "Enthusiasm", "Passion"],
-			"Reversed": ["Overwhelmed", "Giving up", "Overly protective", "Defensive"]
-		}
-	}, {
-		"Name": "Eight of Wands",
-		"Suit": "Wands",
-		"Rank": 8,
-		"Arcana": "Minor",
-		"Title": "Swiftness",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Action", "Speed", "Air travel", "Movement", "Swift change", "Rush"],
-			"Reversed": ["Delays", "Frustration", "Holding off", "Narrow"]
-		}
-	}, {
-		"Name": "Nine of Wands",
-		"Suit": "Wands",
-		"Rank": 9,
-		"Arcana": "Minor",
-		"Title": "Strength",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Courage", "Persistence", "Test of faith", "Resilience", "Power", "Ardent"],
-			"Reversed": ["Defensive", "On edge", "Hesitant", "Paranoia"]
-		}
-	}, {
-		"Name": "Ten of Wands",
-		"Suit": "Wands",
-		"Rank": 10,
-		"Arcana": "Minor",
-		"Title": "Oppression",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Burden", "Responsibility", "Hard work", "Stress", "Achievement", "Restriction", "Endurance"],
-			"Reversed": ["Taking on too much", "Avoiding responsibility", "Oppression"]
-		}
-	}, {
-		"Name": "Page of Wands",
-		"Suit": "Wands",
-		"Rank": 11,
-		"Arcana": "Minor",
-		"Title": "The Princess of the Shining Flame: the Rose of the Palace of Fire.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth of Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Enthusiasm", "Exploration", "Discovery", "Free spirit", "Creative impulse"],
-			"Reversed": ["Pessimism", "Lack of direction", "Setbacks to new ideas"]
-		}
-	}, {
-		"Name": "Knight of Wands",
-		"Suit": "Wands",
-		"Rank": 12,
-		"Arcana": "Minor",
-		"Title": "The Prince of the Chariot of Fire.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire of Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Energy", "Passion", "Lust", "Action", "Adventure", "Impulsiveness", "Lucidity"],
-			"Reversed": ["Haste", "Scattered energy", "Delays", "Frustration", "Strife"]
-		}
-	}, {
-		"Name": "Queen of Wands",
-		"Suit": "Wands",
-		"Rank": 13,
-		"Arcana": "Minor",
-		"Title": "The Queen of the Thrones of Flame.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water of Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Exuberance", "Warmth", "Vibrancy", "Determination", "Vibrancy"],
-			"Reversed": ["Agressive,", "Demanding", "Reflection", "Meditation"]
-		}
-	}, {
-		"Name": "King of Wands",
-		"Suit": "Wands",
-		"Rank": 14,
-		"Arcana": "Minor",
-		"Title": "The Lord of the Flame and Lightning: the King of the Spirits of Fire.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air of Fire",
-		"Realm": "Spirit",
-		"PlayingCard": "Clubs",
-		"Gender": "Male",
-		"Direction": "South",
-		"Seasons": "Spring",
-		"Keywords": {
-			"Upright": ["Vision", "Natural-born leader", "Entrepreneur", "Honor", "Creative"],
-			"Reversed": ["Impulsiveness", "Haste", "Ruthless", "High expectations"]
-		}
-	}, {
-		"Name": "Ace of Cups",
-		"Suit": "Cups",
-		"Rank": 1,
-		"Arcana": "Minor",
-		"Title": "The Root of the Powers of Water.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Love", "Compassion", "Creativity", "Pleasure", "Happiness", "Overwhelming emotion"],
-			"Reversed": ["Blocked emotions", "Repressed emotions", "Emotional numbness"]
-		}
-	}, {
-		"Name": "Two of Cups",
-		"Suit": "Cups",
-		"Rank": 2,
-		"Arcana": "Minor",
-		"Title": "Love",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Partnership", "Attraction", "Unified love", "Relationships", "Reciprocity"],
-			"Reversed": ["Break-up", "Imbalance in relationship", "Lack of harmony", "Reflection"]
-		}
-	}, {
-		"Name": "Three of Cups",
-		"Suit": "Cups",
-		"Rank": 3,
-		"Arcana": "Minor",
-		"Title": "Abundance",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Celebration", "Friendship", "Creativity", "Community", "Merriment"],
-			"Reversed": ["An affair", "Stifled creativity", "Isolation from others"]
-		}
-	}, {
-		"Name": "Four of Cups",
-		"Suit": "Cups",
-		"Rank": 4,
-		"Arcana": "Minor",
-		"Title": "Luxury",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Meditation", "Contemplation", "Apathy", "Re-evaluation", "Devotion"],
-			"Reversed": ["Boredom", "Missed opportunity", "Aloof", "Lazy", "Jaded", "Negligent"]
-		}
-	}, {
-		"Name": "Five of Cups",
-		"Suit": "Cups",
-		"Rank": 5,
-		"Arcana": "Minor",
-		"Title": "Disappointment",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Loss", "Regret", "Disappointment", "Despair", "Bereavement"],
-			"Reversed": ["Acceptance", "Forgiveness", "Detraction", "Moving on"]
-		}
-	}, {
-		"Name": "Six of Cups",
-		"Suit": "Cups",
-		"Rank": 6,
-		"Arcana": "Minor",
-		"Title": "Pleasure",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Reunion", "Nostalgia", "Childhood memories", "Innocence"],
-			"Reversed": ["Naivety", "Unrealistic", "Stuck in the past"]
-		}
-	}, {
-		"Name": "Seven of Cups",
-		"Suit": "Cups",
-		"Rank": 7,
-		"Arcana": "Minor",
-		"Title": "Debauch",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Fantasy", "Illusion", "Wishful thinking", "Choices", "Imagaination"],
-			"Reversed": ["Temptation", "Deception", "Debauchery", "Diversionary tactics", "Unfulfilled promises"]
-		}
-	}, {
-		"Name": "Eight of Cups",
-		"Suit": "Cups",
-		"Rank": 8,
-		"Arcana": "Minor",
-		"Title": "Indolence",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Escapism", "Disappointment", "Abandonment", "Withdrawal", "Loneliness"],
-			"Reversed": ["Hopelessness", "Depression", "Burn-out", "Aimless drifting", "Walking away"]
-		}
-	}, {
-		"Name": "Nine of Cups",
-		"Suit": "Cups",
-		"Rank": 9,
-		"Arcana": "Minor",
-		"Title": "Happiness",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Wishes fulfilled", "Comfort", "Happiness", "Pleasure", "Satisfaction"],
-			"Reversed": ["Greed", "Dissatisfaction", "Materialism", "Vain"]
-		}
-	}, {
-		"Name": "Ten of Cups",
-		"Suit": "Cups",
-		"Rank": 10,
-		"Arcana": "Minor",
-		"Title": "Satiety",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Harmony", "Marriage", "Happiness", "Alignment", "Satiety"],
-			"Reversed": ["Misalignment of values", "Lack of self-control", "Debauchery", "Waste"]
-		}
-	}, {
-		"Name": "Page of Cups",
-		"Suit": "Cups",
-		"Rank": 11,
-		"Arcana": "Minor",
-		"Title": "The Princess of the Waters: the Lotus of the Palace of the Floods.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth of Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Synchronicity", "Ideas", "A messenger", "Creative beginnings"],
-			"Reversed": ["Emotional immaturity", "Creative block", "Emotional insecurity"]
-		}
-	}, {
-		"Name": "Knight of Cups",
-		"Suit": "Cups",
-		"Rank": 12,
-		"Arcana": "Minor",
-		"Title": "The Prince of the Chariot of the Waters.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire of Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Romance", "Passion", "Charm", "Imagination"],
-			"Reversed": ["Unrealistic", "Jealousy", "Moodiness", "Emotional incapacity"]
-		}
-	}, {
-		"Name": "Queen of Cups",
-		"Suit": "Cups",
-		"Rank": 13,
-		"Arcana": "Minor",
-		"Title": "The Queen of the Thrones of the Waters.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water of Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Emotional security", "Calm", "Intuitive", "Compassionate", "Peace"],
-			"Reversed": ["Emotional insecurity", "Co-dependency", "Reflection", "Dissatisfaction", "Out of touch"]
-		}
-	}, {
-		"Name": "King of Cups",
-		"Suit": "Cups",
-		"Rank": 14,
-		"Arcana": "Minor",
-		"Title": "The Lord of the Waves of the Waters: the King of the Hosts of the Sea.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air of Water",
-		"Realm": "Heart",
-		"PlayingCard": "Hearts",
-		"Gender": "Female",
-		"Direction": "West",
-		"Seasons": "Summer",
-		"Keywords": {
-			"Upright": ["Emotional balance", "Emotional control", "Happiness", "Inspiration", "Indolence"],
-			"Reversed": ["Emotional manipulation", "Moodiness", "Volatility", "Passivity", "Conformity"]
-		}
-	}, {
-		"Name": "Ace of Swords",
-		"Suit": "Swords",
-		"Rank": 1,
-		"Arcana": "Minor",
-		"Title": "The Root of the Powers of Air.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Raw power", "Victory", "Break-throughs", "Mental clarity", "Inspiration"],
-			"Reversed": ["Confusion", "Chaos", "Lack of clarity", "Clouded judgement"]
-		}
-	}, {
-		"Name": "Two of Swords",
-		"Suit": "Swords",
-		"Rank": 2,
-		"Arcana": "Minor",
-		"Title": "Peace Restored",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Indecision", "Choices", "Truce", "Stalemate", "Blocked emotions"],
-			"Reversed": ["Confusion", "Information overload", "Emotional division"]
-		}
-	}, {
-		"Name": "Three of Swords",
-		"Suit": "Swords",
-		"Rank": 3,
-		"Arcana": "Minor",
-		"Title": "Sorrow",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Painful separation", "Sorrow", "Disappointment", "Heartbreak", "Grief", "Rejection", "Melancholy"],
-			"Reversed": ["Releasing pain", "Optimism", "Forgiveness", "Faithful in promises"]
-		}
-	}, {
-		"Name": "Four of Swords",
-		"Suit": "Swords",
-		"Rank": 4,
-		"Arcana": "Minor",
-		"Title": "Truce",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Contemplation", "Recuperation", "Restoration", "Passivity", "Relaxation", "Rest"],
-			"Reversed": ["Restlessness", "Burn-out", "Lack of progress", "Stagnation"]
-		}
-	}, {
-		"Name": "Five of Swords",
-		"Suit": "Swords",
-		"Rank": 5,
-		"Arcana": "Minor",
-		"Title": "Defeat",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Conflict", "Tension", "Failure", "Defeat", "Mental anguish", "Win at all costs", "Betrayal"],
-			"Reversed": ["Open to change", "Past resentment"]
-		}
-	}, {
-		"Name": "Six of Swords",
-		"Suit": "Swords",
-		"Rank": 6,
-		"Arcana": "Minor",
-		"Title": "Science",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Regretful but necessary transition", "Rite of passage", "Progressive thinking"],
-			"Reversed": ["Cannot move on", "Carrying baggage"]
-		}
-	}, {
-		"Name": "Seven of Swords",
-		"Suit": "Swords",
-		"Rank": 7,
-		"Arcana": "Minor",
-		"Title": "Futility",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Betrayal", "Deception", "Getting away with something", "Stealth"],
-			"Reversed": ["Mental challenges", "Doubt", "Moodiness", "Breaking free", "Adaption"]
-		}
-	}, {
-		"Name": "Eight of Swords",
-		"Suit": "Swords",
-		"Rank": 8,
-		"Arcana": "Minor",
-		"Title": "Interference",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Isolation", "Self-imposed restriction", "Imprisonment", "Indecision", "Distractible"],
-			"Reversed": ["Open to new perspectives", "Release"]
-		}
-	}, {
-		"Name": "Nine of Swords",
-		"Suit": "Swords",
-		"Rank": 9,
-		"Arcana": "Minor",
-		"Title": "Despair and Cruelty",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Depression", "Nightmares", "Intense anxiety", "Restlessness", "Despair"],
-			"Reversed": ["Hopelessness", "Severe depression", "Torment", "Emotional pain"]
-		}
-	}, {
-		"Name": "Ten of Swords",
-		"Suit": "Swords",
-		"Rank": 10,
-		"Arcana": "Minor",
-		"Title": "Ruin",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Defeat", "Ruin", "Disruption", "Crisis", "Betrayal", "Endings", "Loss"],
-			"Reversed": ["Recovery", "Regeneration", "Endurance", "Fear of ruin", "Inevitable end"]
-		}
-	}, {
-		"Name": "Page of Swords",
-		"Suit": "Swords",
-		"Rank": 11,
-		"Arcana": "Minor",
-		"Title": "The Princess of the Rushing Winds: the Lotus of the Palace of Air.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Earth of Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Talkative", "Curious", "Mentally restless", "Energetic", "Strategic"],
-			"Reversed": ["All talk and no action", "Haste", "Undelivered promises"]
-		}
-	}, {
-		"Name": "Knight of Swords",
-		"Suit": "Swords",
-		"Rank": 12,
-		"Arcana": "Minor",
-		"Title": "The Prince of the Chariot of the Winds.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Fire of Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Hasty", "Opinionated", "Action-oriented", "Communicative", "Progressive thinking"],
-			"Reversed": ["Scattered throught", "Disregard for consequences", "Competitive 'win-lose' perspective"]
-		}
-	}, {
-		"Name": "Queen of Swords",
-		"Suit": "Swords",
-		"Rank": 13,
-		"Arcana": "Minor",
-		"Title": "The Queen of the Thrones of Air.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Water of Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Quick thinker", "Intuition", "Organized", "Perceptive", "Independent"],
-			"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered", "Alienation", "Isolation", "Bereavement"]
-		}
-	}, {
-		"Name": "King of Swords",
-		"Suit": "Swords",
-		"Rank": 14,
-		"Arcana": "Minor",
-		"Title": "The Lord of the Wind and the Breezes: the King of the Spirits of Air.",
-		"Zodiac": "",
-		"Planet": "",
-		"Element": "Air of Air",
-		"Realm": "Mind",
-		"PlayingCard": "Spades",
-		"Gender": "Male",
-		"Direction": "North",
-		"Seasons": "Winter",
-		"Keywords": {
-			"Upright": ["Clear thinking", "Mental discipline", "Commanding", "Imperious", "Intellectual power", "Authority", "Truth"],
-			"Reversed": ["Manipulative", "Abusive", "Cruelty", "Interference", "Tyrannical"]
-		}
-	}]
-}
+[{
+	"Name": "The Fool",
+	"Suit": "Trump",
+	"Rank": 0,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Uranus",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Beginnings", "Innocence", "Spontaneity", "Free spirit", "Originality"],
+		"Reversed": ["Naivety", "Foolishness", "Recklessness", "Risk-taking", "Inconsideration", "Mania", "Folly"]
+	}
+}, {
+	"Name": "The Magician",
+	"Suit": "Trump",
+	"Rank": 1,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Mercury",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Power", "Skill", "Concentration", "Action", "Resourcefulness", "Intelligence", "Initiative", "Adroitness"],
+		"Reversed": ["Manipulation", "Poor planning", "Latent talents", "Deceit"]
+	}
+}, {
+	"Name": "The High Priestess",
+	"Suit": "Trump",
+	"Rank": 2,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Moon",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Intuition", "Higher powers", "Mystery", "Wisdom", "Serenity", "Subconscious mind"],
+		"Reversed": ["Hidden agendas", "Self-reflection", "Repressed feelings", "Fluctuation"]
+	}
+}, {
+	"Name": "The Empress",
+	"Suit": "Trump",
+	"Rank": 3,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Venus",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Fertility", "Feminity", "Love", "Beauty", "Nature", "Abundance", "Fruitfulness", "Success", "Pleasure", "Graciousness"],
+		"Reversed": ["Creative block", "Dependence on others", "Idleness", "Debauchery", "Dissipation"]
+	}
+}, {
+	"Name": "The Emperor",
+	"Suit": "Trump",
+	"Rank": 4,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Aries",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Authority", "Father-figure", "Structure", "Solid foundation", "Solidity", "Control", "Ambition", "Vigor", "Power", "Energy"],
+		"Reversed": ["Domination", "Excessive control", "Rigidity", "Inflexibility", "Strife", "Quarrels", "Stubbornness", "Rashness"]
+	}
+}, {
+	"Name": "The Hierophant",
+	"Suit": "Trump",
+	"Rank": 5,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Taurus",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Religion", "Group identification", "Conformity", "Tradition", "Beliefs", "Wisdom", "Intuition"],
+		"Reversed": ["Restriction", "Challenging the status quo", "Stillness"]
+	}
+}, {
+	"Name": "The Lovers",
+	"Suit": "Trump",
+	"Rank": 6,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Gemini",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Love", "Union", "Relationships", "Values alignment", "Choices", "Inspiration"],
+		"Reversed": ["Disharmony", "Imbalance", "Misalignment of values", "Instability"]
+	}
+}, {
+	"Name": "The Chariot",
+	"Suit": "Trump",
+	"Rank": 7,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Cancer",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Control", "Will power", "Victory", "Assertion", "Determination", "Triumph", "Hope"],
+		"Reversed": ["Lack of control and direction", "Aggression", "Ruthless", "Lust of destruction"]
+	}
+}, {
+	"Name": "Strength",
+	"Suit": "Trump",
+	"Rank": 8,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Leo",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Strength", "Courage", "Patience", "Control", "Compassion", "Equalibrium", "Justice"],
+		"Reversed": ["Weakness", "Self-doubt", "Lack of self-discipline", "Trial", "Judgement"]
+	}
+}, {
+	"Name": "The Hermit",
+	"Suit": "Trump",
+	"Rank": 9,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Virgo",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Soul-searching", "Introspection", "Being alone", "Inner guidance", "Illumination from within"],
+		"Reversed": ["Isolation", "Loneliness", "Withdrawal", "Prudence", "Circumspection", "Solitude"]
+	}
+}, {
+	"Name": "Wheel of Fortune",
+	"Suit": "Trump",
+	"Rank": 10,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Jupiter",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Good luck", "Karma", "Life cycles", "A turning point"],
+		"Reversed": ["Bad luck", "Negative external forces", "Out of control", "Intoxication of success"]
+	}
+}, {
+	"Name": "Justice",
+	"Suit": "Trump",
+	"Rank": 11,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Libra",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Justice", "Fairness", "Truth", "Cause and effect", "Law", "Courage", "Strength", "Fortitude"],
+		"Reversed": ["Unfairness", "Lack of accountability", "Dishonesty", "Disarray"]
+	}
+}, {
+	"Name": "The Hanged Man",
+	"Suit": "Trump",
+	"Rank": 12,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Neptune",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Suspension", "Restriction", "Letting go", "Sacrifice", "Renunciation"],
+		"Reversed": ["Martyrdom", "Indecision", "Delay", "Suffering", "Loss"]
+	}
+}, {
+	"Name": "Death",
+	"Suit": "Trump",
+	"Rank": 13,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Scorpio",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Endings", "Beginnings", "Change", "Transformation", "Transition", "Metamorphosis"],
+		"Reversed": ["Resistance to change", "Unable to move on", "Hesitant", "Reluctance"]
+	}
+}, {
+	"Name": "Temperance",
+	"Suit": "Trump",
+	"Rank": 14,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Sagittarius",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Balance", "Moderation", "Patience", "Purpose", "Meaning", "Realization", "Aspiration", "Ambition"],
+		"Reversed": ["Imbalance", "Excess", "Ordeal", "Testing", "Lack of long-term vision"]
+	}
+}, {
+	"Name": "The Devil",
+	"Suit": "Trump",
+	"Rank": 15,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Capricorn",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Temptation", "Obsession", "Bondage", "Addiction", "Sexuality", "Materialism"],
+		"Reversed": ["Detachment", "Breaking free", "Power reclaimed"]
+	}
+}, {
+	"Name": "The Tower",
+	"Suit": "Trump",
+	"Rank": 16,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Mars",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Disaster", "Upheaval", "Sudden change", "Destabilization", "Questioning your beliefs"],
+		"Reversed": ["Avoidance of disaster", "Fear of change", "Resistance to change"]
+	}
+}, {
+	"Name": "The Star",
+	"Suit": "Trump",
+	"Rank": 17,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Aquarius",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Hope", "Spirituality", "Renewal", "Inspiration", "Serenity", "Clear vision"],
+		"Reversed": ["Lack of faith", "Despair", "Discouragement", "Judgement errors", "Dissappointment"]
+	}
+}, {
+	"Name": "The Moon",
+	"Suit": "Trump",
+	"Rank": 18,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "Pisces",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Illusion", "Bewilderment", "Fear", "Anxiety", "Insecurity", "Subconscious", "Deception"],
+		"Reversed": ["Release of fear", "Unhappiness", "Confusion", "Dissociation from reality", "Misunderstanding"]
+	}
+}, {
+	"Name": "The Sun",
+	"Suit": "Trump",
+	"Rank": 19,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Sun",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Fun", "Warmth", "Freedom", "Candor", "Success", "Positivity", "Vitality"],
+		"Reversed": ["Temporary depression", "Lack of success", "Arrogance", "Vanity"]
+	}
+}, {
+	"Name": "Judgement",
+	"Suit": "Trump",
+	"Rank": 20,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Pluto",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Judgement", "Rebirth", "Inner calling", "Absolution"],
+		"Reversed": ["Self-doubt", "Refusal of self-examination", "Difficulties overcoming obstacles"]
+	}
+}, {
+	"Name": "The World",
+	"Suit": "Trump",
+	"Rank": 21,
+	"Arcana": "Major",
+	"Title": "",
+	"Zodiac": "",
+	"Planet": "Saturn",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Completion", "Synthesis", "Conclusion", "Integration", "Accomplishment", "Travel"],
+		"Reversed": ["Lack of completion", "Lack of closure", "Delay", "Opposition"]
+	}
+}, {
+	"Name": "The Happy Squirrel",
+	"Suit": "Trump",
+	"Rank": 22,
+	"Arcana": "Easter Egg",
+	"Title": "An unknown factor which cannot be revealed at this time; a random element which cannot be controlled and represents the unforseeable.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "",
+	"Realm": "",
+	"PlayingCard": "",
+	"Gender": "",
+	"Direction": "",
+	"Keywords": {
+		"Upright": ["Unknown", "Random"],
+		"Reversed": ["Unforseeable", "Irony"]
+	}
+}, {
+	"Name": "Ace of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 1,
+	"Arcana": "Minor",
+	"Title": "The Root of the Powers of Earth.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Manifestation", "New financial opportunity", "Prosperity", "Wealth", "Contentment"],
+		"Reversed": ["Lost opportunity", "Lack of planning", "Lack of foresight", "Corruption"]
+	}
+}, {
+	"Name": "Two of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 2,
+	"Arcana": "Minor",
+	"Title": "Harmonious Change",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Balance", "Adaptability", "Time management", "Prioritization", "Cyclicity"],
+		"Reversed": ["Disorganization", "Financial disarray", "Inconsistent"]
+	}
+}, {
+	"Name": "Three of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 3,
+	"Arcana": "Minor",
+	"Title": "Work",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Teamwork", "Initial fulfilment", "Collaboration", "Learning", "Construction", "Endurance"],
+		"Reversed": ["Disregard for skills", "Lack of teamwork", "Lack of planning", "Competition"]
+	}
+}, {
+	"Name": "Four of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 4,
+	"Arcana": "Minor",
+	"Title": "Earthly Power",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Control", "Stability", "Security", "Possession", "Conservatism", "Authority"],
+		"Reversed": ["Greed", "Materialism", "Self-protection", "Dominion", "Self-aggrandizement"]
+	}
+}, {
+	"Name": "Five of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 5,
+	"Arcana": "Minor",
+	"Title": "Worry",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Isolation", "Insecurity", "Worry", "Financial loss", "Poverty", "Anxiety", "Duress"],
+		"Reversed": ["Recovery from financial loss", "Spiritual poverty", "Analysis"]
+	}
+}, {
+	"Name": "Six of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 6,
+	"Arcana": "Minor",
+	"Title": "Material Success",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Generosity", "Charity", "Prosperity", "Philanthropy", "Giving", "Sharing wealth", "Gain"],
+		"Reversed": ["Debt", "Selfishness", "One-sided charity"]
+	}
+}, {
+	"Name": "Seven of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 7,
+	"Arcana": "Minor",
+	"Title": "Failure",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Vision", "Perseverance", "Profit", "Determination", "Reward", "Investment"],
+		"Reversed": ["Lack of long-term vision", "Limited success or reward", "Dissappointment", "Lost motivation"]
+	}
+}, {
+	"Name": "Eight of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 8,
+	"Arcana": "Minor",
+	"Title": "Prudence",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Education", "Apprenticeship", "Quality", "Engagement", "Calculating", "Diligence", "Orderly"],
+		"Reversed": ["Perfectionism", "Lacking ambition or focus", "Prudence"]
+	}
+}, {
+	"Name": "Nine of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 9,
+	"Arcana": "Minor",
+	"Title": "Material Gain",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Gratitide", "Luxury", "Self-sufficiency", "Culmination", "Fruitfulness"],
+		"Reversed": ["Over-investment in work", "Foolish actions", "Financial setbacks"]
+	}
+}, {
+	"Name": "Ten of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 10,
+	"Arcana": "Minor",
+	"Title": "Wealth",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Wealth", "Prosperity", "Inheritance", "Family", "Establishment", "Retirement"],
+		"Reversed": ["Financial failure", "Loneliness", "Loss", "Limitations on future success"]
+	}
+}, {
+	"Name": "Page of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 11,
+	"Arcana": "Minor",
+	"Title": "The Princess of the Echoing Hills: the Rose of the Palace of Earth.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth of Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Manifestation", "Financial opportunity", "New job"],
+		"Reversed": ["Lack of progress and planning", "Short-term focus", "Block to goal"]
+	}
+}, {
+	"Name": "Knight of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 12,
+	"Arcana": "Minor",
+	"Title": "The Prince of the Chariot of Earth.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire of Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Efficiency", "Routine", "Methodical", "Conservatism", "Reason"],
+		"Reversed": ["Boredom", "Laziness", "Objectivity"]
+	}
+}, {
+	"Name": "Queen of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 13,
+	"Arcana": "Minor",
+	"Title": "The Queen of the Thrones of Earth.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water of Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Practical", "Homely", "Down-to-earth", "Security", "Nuturing"],
+		"Reversed": ["Imbalance in work commitments", "Imbalance in family commitments", "Isolation"]
+	}
+}, {
+	"Name": "King of Pentacles",
+	"Suit": "Pentacles",
+	"Rank": 14,
+	"Arcana": "Minor",
+	"Title": "The Lord of the Wide and Fertile Land: the King of the Spirits of Earth.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air of Earth",
+	"Realm": "Home",
+	"PlayingCard": "Diamonds",
+	"Gender": "Female",
+	"Direction": "East",
+	"Seasons": "Fall",
+	"Keywords": {
+		"Upright": ["Security", "Control", "Power", "Discipline", "Abundance"],
+		"Reversed": ["Authoritative", "Domineering", "Controlling", "Relentless"]
+	}
+}, {
+	"Name": "Ace of Wands",
+	"Suit": "Wands",
+	"Rank": 1,
+	"Arcana": "Minor",
+	"Title": "The Root of the Powers of Fire.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Inspiration", "Power", "Creation", "Beginnings", "Potential"],
+		"Reversed": ["Delays", "Unmotivated", "Weighed down", "Uninspired"]
+	}
+}, {
+	"Name": "Two of Wands",
+	"Suit": "Wands",
+	"Rank": 2,
+	"Arcana": "Minor",
+	"Title": "Dominion",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Future planning", "Progress", "Decisions", "Discovery"],
+		"Reversed": ["Fear of unknown", "Lack of planning", "Obstruction to goal"]
+	}
+}, {
+	"Name": "Three of Wands",
+	"Suit": "Wands",
+	"Rank": 3,
+	"Arcana": "Minor",
+	"Title": "Virtue",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Preparation", "Foresight", "Enterprise", "Expansion"],
+		"Reversed": ["Lack of foresight", "Delays", "Conceit", "Obstacles to long-term goals"]
+	}
+}, {
+	"Name": "Four of Wands",
+	"Suit": "Wands",
+	"Rank": 4,
+	"Arcana": "Minor",
+	"Title": "Completion",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Celebration", "Harmony", "Marriage", "Home", "Comfort", "Community"],
+		"Reversed": ["Communication breakdown", "Transition", "Idleness"]
+	}
+}, {
+	"Name": "Five of Wands",
+	"Suit": "Wands",
+	"Rank": 5,
+	"Arcana": "Minor",
+	"Title": "Strife",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Disagreement", "Competition", "Strife", "Tension", "Struggle", "Conflict"],
+		"Reversed": ["Conflict avoidance", "Diversity", "Agreeing to disagree", "Competition"]
+	}
+}, {
+	"Name": "Six of Wands",
+	"Suit": "Wands",
+	"Rank": 6,
+	"Arcana": "Minor",
+	"Title": "Victory",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Public recognition", "Victory", "Progress", "Self-confidence", "Leadership"],
+		"Reversed": ["Egotism", "Disrepute", "Insolence", "Lack of confidence", "Fall from grace"]
+	}
+}, {
+	"Name": "Seven of Wands",
+	"Suit": "Wands",
+	"Rank": 7,
+	"Arcana": "Minor",
+	"Title": "Valor",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Challenge", "Competition", "Perseverance", "Enthusiasm", "Passion"],
+		"Reversed": ["Overwhelmed", "Giving up", "Overly protective", "Defensive"]
+	}
+}, {
+	"Name": "Eight of Wands",
+	"Suit": "Wands",
+	"Rank": 8,
+	"Arcana": "Minor",
+	"Title": "Swiftness",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Action", "Speed", "Air travel", "Movement", "Swift change", "Rush"],
+		"Reversed": ["Delays", "Frustration", "Holding off", "Narrow"]
+	}
+}, {
+	"Name": "Nine of Wands",
+	"Suit": "Wands",
+	"Rank": 9,
+	"Arcana": "Minor",
+	"Title": "Strength",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Courage", "Persistence", "Test of faith", "Resilience", "Power", "Ardent"],
+		"Reversed": ["Defensive", "On edge", "Hesitant", "Paranoia"]
+	}
+}, {
+	"Name": "Ten of Wands",
+	"Suit": "Wands",
+	"Rank": 10,
+	"Arcana": "Minor",
+	"Title": "Oppression",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Burden", "Responsibility", "Hard work", "Stress", "Achievement", "Restriction", "Endurance"],
+		"Reversed": ["Taking on too much", "Avoiding responsibility", "Oppression"]
+	}
+}, {
+	"Name": "Page of Wands",
+	"Suit": "Wands",
+	"Rank": 11,
+	"Arcana": "Minor",
+	"Title": "The Princess of the Shining Flame: the Rose of the Palace of Fire.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth of Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Enthusiasm", "Exploration", "Discovery", "Free spirit", "Creative impulse"],
+		"Reversed": ["Pessimism", "Lack of direction", "Setbacks to new ideas"]
+	}
+}, {
+	"Name": "Knight of Wands",
+	"Suit": "Wands",
+	"Rank": 12,
+	"Arcana": "Minor",
+	"Title": "The Prince of the Chariot of Fire.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire of Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Energy", "Passion", "Lust", "Action", "Adventure", "Impulsiveness", "Lucidity"],
+		"Reversed": ["Haste", "Scattered energy", "Delays", "Frustration", "Strife"]
+	}
+}, {
+	"Name": "Queen of Wands",
+	"Suit": "Wands",
+	"Rank": 13,
+	"Arcana": "Minor",
+	"Title": "The Queen of the Thrones of Flame.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water of Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Exuberance", "Warmth", "Vibrancy", "Determination", "Vibrancy"],
+		"Reversed": ["Agressive,", "Demanding", "Reflection", "Meditation"]
+	}
+}, {
+	"Name": "King of Wands",
+	"Suit": "Wands",
+	"Rank": 14,
+	"Arcana": "Minor",
+	"Title": "The Lord of the Flame and Lightning: the King of the Spirits of Fire.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air of Fire",
+	"Realm": "Spirit",
+	"PlayingCard": "Clubs",
+	"Gender": "Male",
+	"Direction": "South",
+	"Seasons": "Spring",
+	"Keywords": {
+		"Upright": ["Vision", "Natural-born leader", "Entrepreneur", "Honor", "Creative"],
+		"Reversed": ["Impulsiveness", "Haste", "Ruthless", "High expectations"]
+	}
+}, {
+	"Name": "Ace of Cups",
+	"Suit": "Cups",
+	"Rank": 1,
+	"Arcana": "Minor",
+	"Title": "The Root of the Powers of Water.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Love", "Compassion", "Creativity", "Pleasure", "Happiness", "Overwhelming emotion"],
+		"Reversed": ["Blocked emotions", "Repressed emotions", "Emotional numbness"]
+	}
+}, {
+	"Name": "Two of Cups",
+	"Suit": "Cups",
+	"Rank": 2,
+	"Arcana": "Minor",
+	"Title": "Love",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Partnership", "Attraction", "Unified love", "Relationships", "Reciprocity"],
+		"Reversed": ["Break-up", "Imbalance in relationship", "Lack of harmony", "Reflection"]
+	}
+}, {
+	"Name": "Three of Cups",
+	"Suit": "Cups",
+	"Rank": 3,
+	"Arcana": "Minor",
+	"Title": "Abundance",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Celebration", "Friendship", "Creativity", "Community", "Merriment"],
+		"Reversed": ["An affair", "Stifled creativity", "Isolation from others"]
+	}
+}, {
+	"Name": "Four of Cups",
+	"Suit": "Cups",
+	"Rank": 4,
+	"Arcana": "Minor",
+	"Title": "Luxury",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Meditation", "Contemplation", "Apathy", "Re-evaluation", "Devotion"],
+		"Reversed": ["Boredom", "Missed opportunity", "Aloof", "Lazy", "Jaded", "Negligent"]
+	}
+}, {
+	"Name": "Five of Cups",
+	"Suit": "Cups",
+	"Rank": 5,
+	"Arcana": "Minor",
+	"Title": "Disappointment",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Loss", "Regret", "Disappointment", "Despair", "Bereavement"],
+		"Reversed": ["Acceptance", "Forgiveness", "Detraction", "Moving on"]
+	}
+}, {
+	"Name": "Six of Cups",
+	"Suit": "Cups",
+	"Rank": 6,
+	"Arcana": "Minor",
+	"Title": "Pleasure",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Reunion", "Nostalgia", "Childhood memories", "Innocence"],
+		"Reversed": ["Naivety", "Unrealistic", "Stuck in the past"]
+	}
+}, {
+	"Name": "Seven of Cups",
+	"Suit": "Cups",
+	"Rank": 7,
+	"Arcana": "Minor",
+	"Title": "Debauch",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Fantasy", "Illusion", "Wishful thinking", "Choices", "Imagaination"],
+		"Reversed": ["Temptation", "Deception", "Debauchery", "Diversionary tactics", "Unfulfilled promises"]
+	}
+}, {
+	"Name": "Eight of Cups",
+	"Suit": "Cups",
+	"Rank": 8,
+	"Arcana": "Minor",
+	"Title": "Indolence",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Escapism", "Disappointment", "Abandonment", "Withdrawal", "Loneliness"],
+		"Reversed": ["Hopelessness", "Depression", "Burn-out", "Aimless drifting", "Walking away"]
+	}
+}, {
+	"Name": "Nine of Cups",
+	"Suit": "Cups",
+	"Rank": 9,
+	"Arcana": "Minor",
+	"Title": "Happiness",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Wishes fulfilled", "Comfort", "Happiness", "Pleasure", "Satisfaction"],
+		"Reversed": ["Greed", "Dissatisfaction", "Materialism", "Vain"]
+	}
+}, {
+	"Name": "Ten of Cups",
+	"Suit": "Cups",
+	"Rank": 10,
+	"Arcana": "Minor",
+	"Title": "Satiety",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Harmony", "Marriage", "Happiness", "Alignment", "Satiety"],
+		"Reversed": ["Misalignment of values", "Lack of self-control", "Debauchery", "Waste"]
+	}
+}, {
+	"Name": "Page of Cups",
+	"Suit": "Cups",
+	"Rank": 11,
+	"Arcana": "Minor",
+	"Title": "The Princess of the Waters: the Lotus of the Palace of the Floods.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth of Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Synchronicity", "Ideas", "A messenger", "Creative beginnings"],
+		"Reversed": ["Emotional immaturity", "Creative block", "Emotional insecurity"]
+	}
+}, {
+	"Name": "Knight of Cups",
+	"Suit": "Cups",
+	"Rank": 12,
+	"Arcana": "Minor",
+	"Title": "The Prince of the Chariot of the Waters.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire of Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Romance", "Passion", "Charm", "Imagination"],
+		"Reversed": ["Unrealistic", "Jealousy", "Moodiness", "Emotional incapacity"]
+	}
+}, {
+	"Name": "Queen of Cups",
+	"Suit": "Cups",
+	"Rank": 13,
+	"Arcana": "Minor",
+	"Title": "The Queen of the Thrones of the Waters.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water of Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Emotional security", "Calm", "Intuitive", "Compassionate", "Peace"],
+		"Reversed": ["Emotional insecurity", "Co-dependency", "Reflection", "Dissatisfaction", "Out of touch"]
+	}
+}, {
+	"Name": "King of Cups",
+	"Suit": "Cups",
+	"Rank": 14,
+	"Arcana": "Minor",
+	"Title": "The Lord of the Waves of the Waters: the King of the Hosts of the Sea.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air of Water",
+	"Realm": "Heart",
+	"PlayingCard": "Hearts",
+	"Gender": "Female",
+	"Direction": "West",
+	"Seasons": "Summer",
+	"Keywords": {
+		"Upright": ["Emotional balance", "Emotional control", "Happiness", "Inspiration", "Indolence"],
+		"Reversed": ["Emotional manipulation", "Moodiness", "Volatility", "Passivity", "Conformity"]
+	}
+}, {
+	"Name": "Ace of Swords",
+	"Suit": "Swords",
+	"Rank": 1,
+	"Arcana": "Minor",
+	"Title": "The Root of the Powers of Air.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Raw power", "Victory", "Break-throughs", "Mental clarity", "Inspiration"],
+		"Reversed": ["Confusion", "Chaos", "Lack of clarity", "Clouded judgement"]
+	}
+}, {
+	"Name": "Two of Swords",
+	"Suit": "Swords",
+	"Rank": 2,
+	"Arcana": "Minor",
+	"Title": "Peace Restored",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Indecision", "Choices", "Truce", "Stalemate", "Blocked emotions"],
+		"Reversed": ["Confusion", "Information overload", "Emotional division"]
+	}
+}, {
+	"Name": "Three of Swords",
+	"Suit": "Swords",
+	"Rank": 3,
+	"Arcana": "Minor",
+	"Title": "Sorrow",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Painful separation", "Sorrow", "Disappointment", "Heartbreak", "Grief", "Rejection", "Melancholy"],
+		"Reversed": ["Releasing pain", "Optimism", "Forgiveness", "Faithful in promises"]
+	}
+}, {
+	"Name": "Four of Swords",
+	"Suit": "Swords",
+	"Rank": 4,
+	"Arcana": "Minor",
+	"Title": "Truce",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Contemplation", "Recuperation", "Restoration", "Passivity", "Relaxation", "Rest"],
+		"Reversed": ["Restlessness", "Burn-out", "Lack of progress", "Stagnation"]
+	}
+}, {
+	"Name": "Five of Swords",
+	"Suit": "Swords",
+	"Rank": 5,
+	"Arcana": "Minor",
+	"Title": "Defeat",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Conflict", "Tension", "Failure", "Defeat", "Mental anguish", "Win at all costs", "Betrayal"],
+		"Reversed": ["Open to change", "Past resentment"]
+	}
+}, {
+	"Name": "Six of Swords",
+	"Suit": "Swords",
+	"Rank": 6,
+	"Arcana": "Minor",
+	"Title": "Science",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Regretful but necessary transition", "Rite of passage", "Progressive thinking"],
+		"Reversed": ["Cannot move on", "Carrying baggage"]
+	}
+}, {
+	"Name": "Seven of Swords",
+	"Suit": "Swords",
+	"Rank": 7,
+	"Arcana": "Minor",
+	"Title": "Futility",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Betrayal", "Deception", "Getting away with something", "Stealth"],
+		"Reversed": ["Mental challenges", "Doubt", "Moodiness", "Breaking free", "Adaption"]
+	}
+}, {
+	"Name": "Eight of Swords",
+	"Suit": "Swords",
+	"Rank": 8,
+	"Arcana": "Minor",
+	"Title": "Interference",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Isolation", "Self-imposed restriction", "Imprisonment", "Indecision", "Distractible"],
+		"Reversed": ["Open to new perspectives", "Release"]
+	}
+}, {
+	"Name": "Nine of Swords",
+	"Suit": "Swords",
+	"Rank": 9,
+	"Arcana": "Minor",
+	"Title": "Despair and Cruelty",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Depression", "Nightmares", "Intense anxiety", "Restlessness", "Despair"],
+		"Reversed": ["Hopelessness", "Severe depression", "Torment", "Emotional pain"]
+	}
+}, {
+	"Name": "Ten of Swords",
+	"Suit": "Swords",
+	"Rank": 10,
+	"Arcana": "Minor",
+	"Title": "Ruin",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Defeat", "Ruin", "Disruption", "Crisis", "Betrayal", "Endings", "Loss"],
+		"Reversed": ["Recovery", "Regeneration", "Endurance", "Fear of ruin", "Inevitable end"]
+	}
+}, {
+	"Name": "Page of Swords",
+	"Suit": "Swords",
+	"Rank": 11,
+	"Arcana": "Minor",
+	"Title": "The Princess of the Rushing Winds: the Lotus of the Palace of Air.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Earth of Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Talkative", "Curious", "Mentally restless", "Energetic", "Strategic"],
+		"Reversed": ["All talk and no action", "Haste", "Undelivered promises"]
+	}
+}, {
+	"Name": "Knight of Swords",
+	"Suit": "Swords",
+	"Rank": 12,
+	"Arcana": "Minor",
+	"Title": "The Prince of the Chariot of the Winds.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Fire of Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Hasty", "Opinionated", "Action-oriented", "Communicative", "Progressive thinking"],
+		"Reversed": ["Scattered throught", "Disregard for consequences", "Competitive 'win-lose' perspective"]
+	}
+}, {
+	"Name": "Queen of Swords",
+	"Suit": "Swords",
+	"Rank": 13,
+	"Arcana": "Minor",
+	"Title": "The Queen of the Thrones of Air.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Water of Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Quick thinker", "Intuition", "Organized", "Perceptive", "Independent"],
+		"Reversed": ["Overly-emotional", "Cold-hearted", "Bad-tempered", "Alienation", "Isolation", "Bereavement"]
+	}
+}, {
+	"Name": "King of Swords",
+	"Suit": "Swords",
+	"Rank": 14,
+	"Arcana": "Minor",
+	"Title": "The Lord of the Wind and the Breezes: the King of the Spirits of Air.",
+	"Zodiac": "",
+	"Planet": "",
+	"Element": "Air of Air",
+	"Realm": "Mind",
+	"PlayingCard": "Spades",
+	"Gender": "Male",
+	"Direction": "North",
+	"Seasons": "Winter",
+	"Keywords": {
+		"Upright": ["Clear thinking", "Mental discipline", "Commanding", "Imperious", "Intellectual power", "Authority", "Truth"],
+		"Reversed": ["Manipulative", "Abusive", "Cruelty", "Interference", "Tyrannical"]
+	}
+}]

@@ -29,16 +29,16 @@
                             CupsPreferredName='Cups'
                             SwordsPreferredName='Swords'
                             IncludeOptionalCard=$false
-                            CreateDate=(Get-Date)
+                            CreateDate=(Get-Date) #| Select-Object -Property * #???
                             LastModifiedDate=$null
             }
             
             $directory = "$env:APPDATA\Tarot\"
             if ( (Test-Path -Path $directory) -eq $false)
             {
-                New-Item -Name 'Tarot' -Path "$directory" -ItemType Directory | Out-Null
+                New-Item -Name 'Tarot' -Path "$env:APPDATA" -ItemType Directory | Out-Null
             }
-            New-Item -Name 'Preferences.json' -Path "$env:APPDATA\Tarot\" -ItemType 'File' -Value ($default | ConvertTo-Json) -Force | Out-Null
+            New-Item -Name 'Preferences.json' -Path "$directory" -ItemType 'File' -Value ($default | ConvertTo-Json) -Force | Out-Null
          }
      }
      End

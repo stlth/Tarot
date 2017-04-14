@@ -28,8 +28,9 @@ function Get-TarotCard
         $ParameterAttribute.ParameterSetName = 'Default'
         $AttributeCollection.Add($ParameterAttribute)
         # Generate and set the ValidateSet
-        $cardnames = $Script:Tarot | Select-Object -ExpandProperty Name
+        $cardnames = $Script:Tarot | Select-Object -Property Name -ExpandProperty Name
         $ValidateSetAttribute = New-Object -TypeName System.Management.Automation.ValidateSetAttribute($cardnames)
+        ###$ValidateSetAttribute = [System.Management.Automation.ValidateSetAttribute]::new($cardnames)
         $AttributeCollection.Add($ValidateSetAttribute)
         # Create and return the dynamic parameter
         $RuntimeParameter = New-Object -TypeName System.Management.Automation.RuntimeDefinedParameter($ParameterName,[string[]],$AttributeCollection)
@@ -41,7 +42,6 @@ function Get-TarotCard
     {
         Write-Verbose -Message $($LocalizedData.VerboseListingParametersUtilized)
         $PSBoundParameters.GetEnumerator() | ForEach-Object -Process { Write-Verbose -Message "$($PSItem)" }
-
         # Bind the parameter to a new instance variable created in the Dynamic Parameter
         $Card = $PsBoundParameters[$ParameterName]
     }

@@ -35,8 +35,8 @@ foreach ($import in @($Public + $Private))
 }
 
 # Read in initial card deck variable and preferences
-[System.Collections.ArrayList]$Script:Tarot = (Get-Content -Path "$Script:ModuleRoot\lib\Tarot.json" -Raw | ConvertFrom-Json).Deck
-$Script:Tarot | ForEach-Object -Process{ $PSItem.PSObject.TypeNames.Insert(0,'Tarot.Card') }
+[System.Collections.ArrayList]$Script:Tarot = (Get-Content -Path "$Script:ModuleRoot\lib\Tarot.json" -Raw | ConvertFrom-Json)
+$Script:Tarot | ForEach-Object -Process { $PSItem.PSObject.TypeNames.Insert(0,'Tarot.Card') }
 
 $path = "$env:APPDATA\Tarot\Preferences.json"
 if ( (Test-Path -Path $path) )
@@ -46,8 +46,7 @@ if ( (Test-Path -Path $path) )
 
     if ($Preferences.IncludeOptionalCard -eq $false)
     {
-        # 2017-02-02: You have some sort of cacading issue here
-        # $Script:Tarot = $Script:Tarot.RemoveAt(22)
+        $Script:Tarot = $Script:Tarot.RemoveAt(22)
     }
 }
 
